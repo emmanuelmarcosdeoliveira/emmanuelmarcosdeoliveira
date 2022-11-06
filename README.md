@@ -16,11 +16,3 @@
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 
-<br>
-<h2>👨‍💻 Minhas Redes Sociais </h2>
-
-<div> 
- <a href="https://discord.gg/Pdr3hsEgNh" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>   	
-   <a href = "mailto:emmanuelmarcosdeoliveira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    
-</div>

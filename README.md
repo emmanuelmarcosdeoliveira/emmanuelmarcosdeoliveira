@@ -2,11 +2,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emmanuelmarcosdeoliveira&color=yellow" alt="Profile views" /> </p>
 
 <div align="center"> 
-  <a href="https://github.com/emmanuelmarcosdeoliveira"/>
-  <img height="160em"src="https://github-readme-stats.vercel.app/api?  username=emmanuelmarcosdeoliveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuelmarcosdeoliveira&layout=compact&langs_count=7&theme=tokyonight"/>
+ <a href="https://github.com/emmanuelmarcosdeoliveira">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emmanuelmarcosdeoliveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuelmarcosdeoliveira&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-
+  
+  
 ## 📓 Estudando
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)

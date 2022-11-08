@@ -1,7 +1,7 @@
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> sejam bem vindos ao meu GitHub</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emmanuelmarcosdeoliveira&color=yellow" alt="Profile views" /> </p>
- <h3> Atualmente se desenvolvendo atráves  do curso de Full Stack Python na EBAC </h3>
+ <h3> Atualmente me desenvolvendo atráves  do curso de Full Stack Python na EBAC </h3>
  
 <br>
 

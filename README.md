@@ -23,7 +23,7 @@
   <tr>
     <td>
      <b>
-      <a href="https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais">🌎 Acessar Aqui os meus Projeto Educacionais</a>
+      <a href="https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais">🌎 Clique Aqui e veja os meus Projeto Educacionais</a>
     </b>
       </td>
     

@@ -1,9 +1,9 @@
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> sejam bem vindos ao meu GitHub</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emmanuelmarcosdeoliveira&color=yellow" alt="Profile views" /> </p>
- <h3> Amante da tecnologia decedi fazer algo que realmente faz sentido pra minha vida. Estudar e me desenvolver para me torar um Desenvolvedor</h3>
+ <h3> Depois de me dedicar por 24 anos ao ramo de Fast-Food decedi fazer algo que realmente faz sentido pra minha vida. Estudar linguagem de programação  e me desenvolver para me torar um Desenvolvedor 🚀</h3>
  
- ![DigibyteDgbGIF (2)](https://user-images.githubusercontent.com/116108389/209897191-b8d4354e-811a-4715-b484-b44a141cb82e.gif)
+ 
 
  
 <br>

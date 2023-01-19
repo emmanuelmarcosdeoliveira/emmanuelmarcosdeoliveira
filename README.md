@@ -1,7 +1,10 @@
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> sejam bem vindos ao meu GitHub</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emmanuelmarcosdeoliveira&color=yellow" alt="Profile views" /> </p>
- <h3> Depois de me dedicar por 24 anos ao ramo de Fast-Food decedi fazer algo que realmente faz sentido pra minha vida. Estudar linguagem de programação  para me torar um Desenvolvedor Front-End 🚀</h3>
+ 
+ ### Olá sou Emmanuel Marcos de Oliveira.
+
+ E sempre fui apaixonado por tecnologia, e em agosto de 2022 resolvi fazer uma transição de carreira estudando e me dedicando para algo que realmente faz sentido pra minha vida. Estudar linguagem de programação para posteriormente me torar um Desenvolvedor Full Stack 🚀.
  
  
 

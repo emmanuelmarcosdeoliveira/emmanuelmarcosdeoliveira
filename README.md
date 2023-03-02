@@ -4,7 +4,8 @@
  
  ### Olá sou Emmanuel Marcos de Oliveira.
 
- E sempre fui apaixonado por tecnologia, e em agosto de 2022 resolvi fazer uma transição de carreira estudando e me dedicando para algo que realmente faz sentido pra minha vida. Estudar linguagem de programação para posteriormente me torar um Desenvolvedor Full Stack 🚀.
+ Apaixonado 💓 por tecnologia, gosta de ver filmes 📼 e amante da Natureza. Em agosto de 2022 resolvi fazer uma transição de carreira.
+Decidi sair da área que atuava, e ir para a área de desenvolvimento Web. Atualmente estou estudando e me dedicando, para para me tornar um Desenvolvedor Web Front-End. 
  
  
 

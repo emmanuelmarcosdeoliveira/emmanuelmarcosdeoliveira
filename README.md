@@ -1,11 +1,11 @@
-<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> sejam bem vindos ao meu GitHub</h1>
+<h1 align="left">Olá, <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> sejam bem vindos ao meu GitHub</h1>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emmanuelmarcosdeoliveira&color=yellow" alt="Profile views" /> </p>
  
- <h2>👋 Olá sou Emmanuel Marcos de Oliveira. </h2>
+ <h2>👋 Olá, sou Emmanuel Marcos de Oliveira. </h2>
 
- Apaixonado por Tecnologia, gosta de asistir Filmes e amante da Natureza. Em agosto de 2022 resolvi fazer uma transição de carreira.
+ Apaixonado por Tecnologia, gosto de asistir Filmes e amante da Natureza. Em agosto de 2022 resolvi fazer uma transição de carreira.
 Decidi sair da área que atuava, e ir para a área de desenvolvimento Web. Atualmente estou estudando e me dedicando, para para me tornar um Desenvolvedor Full Stack Python.  
  
  

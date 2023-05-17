@@ -6,7 +6,7 @@
  <h2>👋 Olá, sou Emmanuel Marcos de Oliveira. </h2>
 
  Apaixonado por Tecnologia, gosto de asistir Filmes e amante da Natureza. Em agosto de 2022 resolvi fazer uma transição de carreira.
-Decidi sair da área que atuava, e ir para a área de desenvolvimento Web. Atualmente estou estudando e me dedicando, para para me tornar um Desenvolvedor Full Stack Python.  
+ Para a área de desenvolvimento Web. Atualmente estou estudando e me dedicando, atráves de cursos on-line das plataformas **EBAC**,**ORIGAMID**,**ESTUDONAUTA**,**UDEMY**,**ONEBITCODE**para para me tornar um Desenvolvedor Full Stack Python.  
  
  
 

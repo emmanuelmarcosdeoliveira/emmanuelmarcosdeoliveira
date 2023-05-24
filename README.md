@@ -4,10 +4,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emmanuelmarcosdeoliveira&color=yellow" alt="Profile views" /> </p>
  
  <h2>👋 Olá, sou Emmanuel Marcos de Oliveira. </h2>
+ 
+ <div aling="center">
 
  Apaixonado por Tecnologia, gosto de asistir Filmes e amante da Natureza. Em agosto de 2022 resolvi fazer uma transição de carreira.
  Para a área de desenvolvimento Web. Atualmente estou estudando e me dedicando, atráves de cursos on-line das plataformas **EBAC**, **ORIGAMID**, **ESTUDONAUTA**, **UDEMY**, **ONEBITCODE** para para me tornar um Desenvolvedor Full Stack Python.  
- 
+ </div>
  
 
  
@@ -29,7 +31,7 @@
  ![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
+![Npm](https://img.shields.io/badge/NPM-000000?style=for-the-badge&logo=NPM=Color=white)
     
    
    ## Contato

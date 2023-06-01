@@ -1,24 +1,34 @@
-<h1 align="left">Olá, <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> sejam bem vindos ao meu Git-Hub.</h1>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=emmanuelmarcosdeoliveira&color=yellow" alt="Profile views"/></p>
+<h1 align="left">Sejam,<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">bem vindos ao meu Git-Hub.</h1>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=emmanuelmarcosdeoliveira&color=yellow" alt="Profile views" /> </p>
+
  
  <h2>👋 Olá, sou Emmanuel Marcos de Oliveira. </h2>
  
  
  <table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td style="border: 0";>
+  <tr>   
+     <td style="border: 0";>
+     <div align="right">
+     <img height="150em" src="https://github.com/emmanuelmarcosdeoliveira/emmanuelmarcosdeoliveira/blob/main/3d-flame-open-dark-grey-laptop.png"/>
+    <div align="center">
+      <h3>Apaixonado por Tecnologia, gosto de asistir Filmes e amante da Natureza.</h3>
+      </div>
+     <div align="left">
+       <h4>Em outubro de 2022 resolvi fazer uma transição de carreira</h4>
+      </div>
+      <br>
+      <div align="left">
+<p>Para a área de desenvolvimento Web. Atualmente estou me desenvolvendo, atráves da Escola EBAC pelo curos de Full Stack Python e também com cursos on-line das plataformas,ORIGAMID,ESTUDONAUTA,UDEMY,ONEBITCODE para para me tornar um Desenvolvedor Full Stack.</p>
+      </div>
+            </td>
+       <td style="border: 0";>
       <img width="400" src="https://github.com/emmanuelmarcosdeoliveira/emmanuelmarcosdeoliveira/blob/main/marginalia-programming.gif" />
     </td>
-    <td style="border: 0";>
-      <div aling="center">
-  <h3>Apaixonado por Tecnologia, gosto de asistir Filmes e amante da Natureza. Em agosto de 2022 resolvi fazer uma transição de carreira.
- Para a área de desenvolvimento Web. Atualmente estou estudando e me dedicando, atráves de cursos on-line das plataformas <strong>EBAC</strong>, ORIGAMID, ESTUDONAUTA, UDEMY,ONEBITCODE para para me tornar um Desenvolvedor Full Stack Python. </h3>
-      </div>       
-    </td>
-  </tr>
+    </tr>
 </table>
+
 
 
 | ![](<a href="https://github.com/emmanuelmarcosdeoliveira">) | ![](<img height="150em" src="https://github-readme-stats.vercel.app/api?username=emmanuelmarcosdeoliveira&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>) |

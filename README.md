@@ -2,7 +2,6 @@
 <h1 align="left">Sejam,<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">bem vindos ao meu Git-Hub.</h1>
 
 
-
  
  <h2>👋 Olá, sou Emmanuel Marcos de Oliveira. </h2>
  

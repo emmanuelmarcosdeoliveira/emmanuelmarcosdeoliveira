@@ -19,7 +19,7 @@
       </div>
       <br>
       <div align="left">
-<p>Para a área de desenvolvimento Web. Atualmente estou me desenvolvendo, atráves da Escola EBAC pelo curos de Full Stack Python e também com cursos on-line das plataformas,ORIGAMID,ESTUDONAUTA,UDEMY,ONEBITCODE para para me tornar um Desenvolvedor Full Stack.</p>
+<p>Para a área de desenvolvimento Web. Atualmente estou me desenvolvendo, atráves da Escola EBAC pelo curso de Full Stack Python e também com cursos on-line das plataformas, ORIGAMID, ESTUDONAUTA, UDEMY, ONEBITCODE para para me tornar um Desenvolvedor Full Stack.</p>
       </div>
             </td>
        <td style="border: 0";>

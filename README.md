@@ -3,27 +3,29 @@
 
 
  
- <h2>👋 Olá, sou Emmanuel Marcos de Oliveira. </h2>
+ <h1>👋 Olá, sou Emmanuel Marcos de Oliveira.</h1>
  
  
- <table border="0" cellspacing="0" cellpadding="0">
+ <table border="0" cellspacing="0" cellpadding="2">
   <tr>   
      <td style="border: 0";>
      <div align="right">
-     <img height="150em" src="https://github.com/emmanuelmarcosdeoliveira/emmanuelmarcosdeoliveira/blob/main/3d-flame-open-dark-grey-laptop.png"/>
-    <div align="center">
-      <h3>Apaixonado por Tecnologia, gosto de asistir Filmes e amante da Natureza.</h3>
+    <div align="left">
+       <h3>Apaixonado por Tecnologia, gosto de asistir Filmes e amante da Natureza.</h3>
       </div>
      <div align="left">
-       <h4>Em outubro de 2022 resolvi fazer uma transição de carreira</h4>
       </div>
       <br>
-      <div align="left">
+      <div align='right'>
+     <img height="150em" src="https://github.com/emmanuelmarcosdeoliveira/emmanuelmarcosdeoliveira/blob/main/3d-flame-open-dark-grey-laptop.png"/>
+      </div>
+       <div align="left">
+       <h4>Em outubro de 2022 resolvi fazer uma transição de carreira</h4>
 <p>Para a área de desenvolvimento Web. Atualmente estou me desenvolvendo, atráves da Escola EBAC, curso de Full Stack Python e também com cursos on-line das plataformas, ORIGAMID, ESTUDONAUTA, UDEMY, ONEBITCODE para para me tornar um Desenvolvedor Full Stack.</p>
       </div>
             </td>
        <td style="border: 0";>
-      <img width="400" src="https://github.com/emmanuelmarcosdeoliveira/emmanuelmarcosdeoliveira/blob/main/marginalia-programming.gif" />
+      <img width="250" src="https://github.com/emmanuelmarcosdeoliveira/emmanuelmarcosdeoliveira/blob/main/marginalia-programming.gif" />
     </td>
     </tr>
 </table>
@@ -36,7 +38,7 @@
 
   
   
-## 📓  Tecnologias & ferramentas
+<h2>⚙️Tecnologias & ferramentas</h2> 
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -49,7 +51,7 @@
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
     
    
-   ## Contato
+   <h2>📲 Contato</h2> 
    <div> 
 
 <a href ="https://wa.me/5511968336094"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>

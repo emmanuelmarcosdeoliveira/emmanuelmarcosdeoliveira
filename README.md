@@ -24,7 +24,7 @@
       </div>
             </td>
        <td style="border: 0";>
-      <img width="250" src="https://github.com/emmanuelmarcosdeoliveira/emmanuelmarcosdeoliveira/blob/main/marginalia-programming.gif" />
+      <img width="850" src="https://github.com/emmanuelmarcosdeoliveira/emmanuelmarcosdeoliveira/blob/main/checklist.svg" />
     </td>
     </tr>
 </table>

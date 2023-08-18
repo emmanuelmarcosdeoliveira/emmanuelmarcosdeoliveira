@@ -19,8 +19,8 @@
       </div>
       <br>
             <div align="left">
-       <h4>Em outubro de 2022 resolvi fazer uma transição de carreira</h4>
-<p>Para a área de desenvolvimento Web. Atualmente estou me desenvolvendo, atráves da Escola EBAC, curso de Full Stack Python e também com cursos on-line das plataformas, ORIGAMID, ESTUDONAUTA, UDEMY, ONEBITCODE para para me tornar um Desenvolvedor Full Stack.</p>
+       <h4>Profissional em transição de carreira</h4>
+<p>Para a área de Desenvolvimento Web. Atualmente estou me desenvolvendo, atráves da Escola EBAC, no curso Profisionalizante de Full Stack Python; e também com cursos das plataformas on-line , ORIGAMID, ESTUDONAUTA, UDEMY, ONEBITCODE para para me tornar um Desenvolvedor Full Stack.</p>
       </div>
             </td>
        <td style="border: 0";>

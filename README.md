@@ -38,13 +38,11 @@
   
 <h2>⚙️ Tecnologias & ferramentas</h2> 
 
-| <img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> | <img  width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> | <img  width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> | <img  width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" /> | <img  width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/> | <img  width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> | <img  width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /> | <img  width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> | <img  width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" /> | <img  width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" /> |  <img  width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grunt/grunt-original.svg" />  | <img  width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />  | <img  width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />  |
-| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |    
-|HTML5|CSS3|JAVASCRIPT|JQUERY|BOOTSTRAP|FIGMA|NPM|SASS|LESS|GULP|GRUNT|GIT|GITHUB|
-
-
-
-    
+| <img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> | <img  width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> | <img  width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> | <img  width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" /> | <img  width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/> | <img  width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> | <img  width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /> | <img  width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> | <img  width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" /> | <img  width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" /> |  <img  width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grunt/grunt-original.svg" />  
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |    
+|HTML5|CSS3|JAVASCRIPT|JQUERY|BOOTSTRAP|FIGMA|NPM|SASS|LESS|GULP|GRUNT|
+| <img  width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />  | <img  width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />  |
+|GIT|GITHUB|    
    
    <h2>📲 Contato</h2> 
    <div> 

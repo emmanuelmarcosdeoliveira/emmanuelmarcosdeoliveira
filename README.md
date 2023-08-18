@@ -2,16 +2,18 @@
 <h1 align="left">Sejam, <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">bem vindos ao meu Git-Hub.</h1>
 
 
+ <div align="center">
+  <img max-width="550" src="https://github.com/emmanuelmarcosdeoliveira/emmanuelmarcosdeoliveira/blob/main/marginalia-programming.gif" />
+ </div>
  
  <h1>👋 Olá, sou Emmanuel Marcos de Oliveira.</h1>
- 
  
  <table border="0" cellspacing="0" cellpadding="2">
   <tr>   
      <td style="border: 0";>
      <div align="right">
     <div align="left">
-       <h3>Apaixonado por Tecnologia, gosto de asistir Filmes e amante da Natureza.</h3>
+       <h3>Apaixonado por Tecnologia, 🧑🏻‍💻 gosto de asistir Filmes 🎞️ e amante da Natureza 🌳.</h3>
       </div>
      <div align="left">
       </div>

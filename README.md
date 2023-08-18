@@ -1,44 +1,65 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=emmanuelmarcosdeoliveira&color=yellow" alt="Profile views"/></p>
 <h1 align="left">Sejam, <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">bem vindos ao meu Git-Hub.</h1>
+<br>
 
-
- 
  <h1>👋 Olá, sou Emmanuel Marcos de Oliveira.</h1>
  
+ <div align="center"> 
+<img width="350"src="https://github.com/emmanuelmarcosdeoliveira/emmanuelmarcosdeoliveira/blob/main/marginalia-programming.gif />
+</div>
  
- <table border="0" cellspacing="0" cellpadding="2">
-  <tr>   
-     <td style="border: 0";>
-     <div align="right">
-    <div align="left">
        <h3>Apaixonado por Tecnologia, gosto de asistir Filmes e amante da Natureza.</h3>
-      </div>
-     <div align="left">
-      </div>
-      <br>
-      <div align='right'>
-     <img height="150em" src="https://github.com/emmanuelmarcosdeoliveira/emmanuelmarcosdeoliveira/blob/main/3d-flame-open-dark-grey-laptop.png"/>
-      </div>
-       <div align="left">
+<br>
+<br>
        <h4>Em outubro de 2022 resolvi fazer uma transição de carreira</h4>
 <p>Para a área de desenvolvimento Web. Atualmente estou me desenvolvendo, atráves da Escola EBAC, curso de Full Stack Python e também com cursos on-line das plataformas, ORIGAMID, ESTUDONAUTA, UDEMY, ONEBITCODE para para me tornar um Desenvolvedor Full Stack.</p>
-      </div>
-            </td>
-       <td style="border: 0";>
-      <img width="250" src="https://github.com/emmanuelmarcosdeoliveira/emmanuelmarcosdeoliveira/blob/main/marginalia-programming.gif" />
-    </td>
-    </tr>
-</table>
+<br>     
+<br>
 
+ <img height="190em" src="https://github-readme-stats.vercel.app/api?username=emmanuelmarcosdeoliveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuelmarcosdeoliveira&layout=compact&langs_count=7&theme=tokyonight"/> 
 
-
-| <img height="190em" src="https://github-readme-stats.vercel.app/api?username=emmanuelmarcosdeoliveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> | <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuelmarcosdeoliveira&layout=compact&langs_count=7&theme=tokyonight"/> |
-| :-: | :-: |
 
 
   
   
 <h2>⚙️Tecnologias & ferramentas</h2> 
+
+<div>
+<dl>
+  <dt> <img width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></dt>
+  <dd><center>HTML5</=></dd>
+ </dl>
+ <dl align="center">
+  <dt> <img width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+             </dt>
+  <dd><p align="center">HTML5</p></dd>
+ </dl>
+ <dl align="center">
+  <dt> <img width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+             </dt>
+  <dd><p align="center">HTML5</p></dd>
+ </dl>
+ <dl align="center">
+  <dt> <img width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+             </dt>
+  <dd><p align="center">HTML5</p></dd>
+ </dl>
+ <dl align="center">
+  <dt> <img width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+             </dt>
+  <dd><p align="center">HTML5</p></dd>
+ </dl>
+ <dl align="center">
+  <dt> <img width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+             </dt>
+  <dd><p align="center">HTML5</p></dd>
+ </dl>
+
+  
+ 
+</div>
+
+
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)

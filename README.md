@@ -4,19 +4,24 @@
 
  <h1>👋 Olá, sou Emmanuel Marcos de Oliveira.</h1>
  
- <div align="center"> 
+ <div>
+
 <img width="350"src="https://github.com/emmanuelmarcosdeoliveira/emmanuelmarcosdeoliveira/blob/main/marginalia-programming.gif />
+
 </div>
  
        <h3>Apaixonado por Tecnologia, gosto de asistir Filmes e amante da Natureza.</h3>
 <br>
 <br>
        <h4>Em outubro de 2022 resolvi fazer uma transição de carreira</h4>
+<br>
 <p>Para a área de desenvolvimento Web. Atualmente estou me desenvolvendo, atráves da Escola EBAC, curso de Full Stack Python e também com cursos on-line das plataformas, ORIGAMID, ESTUDONAUTA, UDEMY, ONEBITCODE para para me tornar um Desenvolvedor Full Stack.</p>
 <br>     
 <br>
 
- <img height="190em" src="https://github-readme-stats.vercel.app/api?username=emmanuelmarcosdeoliveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuelmarcosdeoliveira&layout=compact&langs_count=7&theme=tokyonight"/> 
+ <img height="190em" src="https://github-readme-stats.vercel.app/api?username=emmanuelmarcosdeoliveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+ 
+   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuelmarcosdeoliveira&layout=compact&langs_count=7&theme=tokyonight"/> 
 
 
 
@@ -25,35 +30,27 @@
 <h2>⚙️Tecnologias & ferramentas</h2> 
 
 <div>
+
 <dl>
   <dt> <img width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></dt>
-  <dd><center>HTML5</=></dd>
+  <dd>HTML5</dd>
  </dl>
- <dl align="center">
-  <dt> <img width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-             </dt>
-  <dd><p align="center">HTML5</p></dd>
+  <dl>
+  <dt> <img width="100"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></dt>
+  <dd>CSS3</dd>
  </dl>
- <dl align="center">
-  <dt> <img width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-             </dt>
-  <dd><p align="center">HTML5</p></dd>
+ <dl>
+  <dt> <img width="100"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></dt>
+  <dd>JAVASCRIPT</dd>
  </dl>
- <dl align="center">
-  <dt> <img width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-             </dt>
-  <dd><p align="center">HTML5</p></dd>
+  <dl>
+  <dt> <img width="100"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
+          </dt>
+  <dd>JQUERY</dd>
  </dl>
- <dl align="center">
-  <dt> <img width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-             </dt>
-  <dd><p align="center">HTML5</p></dd>
- </dl>
- <dl align="center">
-  <dt> <img width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-             </dt>
-  <dd><p align="center">HTML5</p></dd>
- </dl>
+ 
+
+ 
 
   
  

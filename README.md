@@ -1,12 +1,12 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=emmanuelmarcosdeoliveira&color=yellow" alt="Profile views"/></p>
-<h1 align="left">Sejam, <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">bem vindos ao meu Git-Hub.</h1>
+<h1 align="center">Sejam Muito Bem Vindos ao meu Git-Hub.</h1>
 
 
 <div align="center">
 <img max-width="550" src="https://github.com/emmanuelmarcosdeoliveira/emmanuelmarcosdeoliveira/blob/main/marginalia-programming.gif" />
 </div>
  
-<h1>👋 Olá, sou Emmanuel Marcos de Oliveira.</h1>  
+<h1 align="center">👋 Olá, sou Emmanuel Marcos de Oliveira.</h1>  
 <div align="center">
 <h3>Apaixonado por Tecnologia, 🧑🏻‍💻 gosto de asistir Filmes 🎞️ e amante da Natureza 🌳.</h3>
 </div>  
@@ -19,8 +19,8 @@
 </div>
 <h2 align="center"> 🧑🏻‍💻 Atividade </h2>
 <div align="center">
-<img  height="180em" src="https://github-readme-stats.vercel.app/api?username=emmanuelmarcosdeoliveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>         
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuelmarcosdeoliveira&layout=compact&langs_count=7&theme=tokyonight"/>
+<img  height="175em" src="https://github-readme-stats.vercel.app/api?username=emmanuelmarcosdeoliveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>         
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuelmarcosdeoliveira&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <h2 align="center">⚙️ Tecnologias & ferramentas</h2> 
 
@@ -29,7 +29,9 @@
 |HTML5|CSS3|JAVASCRIPT|JQUERY|BOOTSTRAP|FIGMA|NPM|SASS|LESS|GULP|GRUNT|
 | <img  width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />  | <img  width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />  |
 |GIT|GITHUB|    
-   
+<div width="100">
+➡️
+</div>   
    <h2 align='center'>📲 Contato</h2> 
  <div align="center"> 
 <a href ="https://wa.me/5511968336094"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>

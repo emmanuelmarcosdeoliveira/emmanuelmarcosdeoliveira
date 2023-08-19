@@ -19,8 +19,8 @@
 </div>
 <h2 align="center"> 🧑🏻‍💻 Atividade </h2>
 <div align="center">
-<img  height="175em" src="https://github-readme-stats.vercel.app/api?username=emmanuelmarcosdeoliveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>         
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuelmarcosdeoliveira&layout=compact&langs_count=7&theme=tokyonight"/>
+<img  height="170em" src="https://github-readme-stats.vercel.app/api?username=emmanuelmarcosdeoliveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>         
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuelmarcosdeoliveira&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <h2 align="center">⚙️ Tecnologias & ferramentas</h2> 
 

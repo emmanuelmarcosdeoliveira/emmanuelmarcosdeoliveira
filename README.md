@@ -29,9 +29,9 @@
 |HTML5|CSS3|JAVASCRIPT|JQUERY|BOOTSTRAP|FIGMA|NPM|SASS|LESS|GULP|GRUNT|GIT|GITHUB|    
 
 
-<div width="100">
+<h3>
 ➡️
-</div>   
+</h3>   
    <h2 align='center'>📲 Contato</h2> 
  <div align="center"> 
 <a href ="https://wa.me/5511968336094"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>

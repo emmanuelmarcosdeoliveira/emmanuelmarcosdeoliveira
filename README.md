@@ -26,14 +26,15 @@
 
 <div align="center">
  
- | <img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> | <img  width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> | <img  width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> | <img  width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" /> |
-|:--:|:--:|:--:|:--:|  
-|HTML5|CSS3|JAVASCRIPT|JQUERY|
-| <img  width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/> | <img  width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> | <img  width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /> | <img  width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> |
-|BOOTSTRAP|FIGMA|NPM|SASS|
-<img  width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" /> | <img  width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" /> |  <img  width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grunt/grunt-original.svg" /> |  <img  width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />  | 
-LESS|GULP|GRUNT|GITHUB|    
-
+ | <img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> | <img  width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> | <img  width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> | 
+|:--:|:--:|:--:|  
+|HTML5|CSS3|JAVASCRIPT|
+| <img  width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/> | <img  width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> | <img  width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+|BOOTSTRAP|FIGMA|NPM|
+<img  width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" /> | <img  width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" /> |  <img  width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grunt/grunt-original.svg" /> 
+LESS|GULP|GRUNT|
+<img  width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" /> | <img  width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> |<img  width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />  | 
+|JQUERY|SASS|GITHUB|   
 </div>
 
  

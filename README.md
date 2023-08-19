@@ -24,14 +24,19 @@
 </div>
 <h2 align="center">⚙️ Tecnologias & ferramentas</h2> 
 
-| <img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> | <img  width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> | <img  width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> | <img  width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" /> | <img  width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/> | <img  width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> | <img  width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /> | <img  width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> | <img  width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" /> | <img  width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" /> |  <img  width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grunt/grunt-original.svg" /> | <img  width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />  | <img  width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />  | 
-| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |    
-|HTML5|CSS3|JAVASCRIPT|JQUERY|BOOTSTRAP|FIGMA|NPM|SASS|LESS|GULP|GRUNT|GIT|GITHUB|    
+<div align="center">
+ 
+ | <img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> | <img  width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> | <img  width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> | <img  width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" /> |
+|:--:|:--:|:--:|:--:|  
+|HTML5|CSS3|JAVASCRIPT|JQUERY|
+| <img  width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/> | <img  width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> | <img  width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /> | <img  width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> |
+|BOOTSTRAP|FIGMA|NPM|SASS|
+<img  width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" /> | <img  width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" /> |  <img  width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grunt/grunt-original.svg" /> |  <img  width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />  | 
+LESS|GULP|GRUNT|GITHUB|    
 
+</div>
 
-<h3>
-➡️
-</h3>   
+ 
    <h2 align='center'>📲 Contato</h2> 
  <div align="center"> 
 <a href ="https://wa.me/5511968336094"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>

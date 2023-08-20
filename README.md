@@ -15,7 +15,7 @@
 <h4>Profissional em transição de carreira</h4>  
 </div>
 <div width="300">
-<p>Para a área de Desenvolvimento Web. Atualmente estou me desenvolvendo, atráves da Escola EBAC, no curso Profisionalizante de Full Stack Python; e também com cursos das plataformas on-line , ORIGAMID, ESTUDONAUTA, UDEMY, ONEBITCODE para para me tornar um Desenvolvedor Full Stack.</p> 
+<p>Meu Objetivo é Fazer uma transição de carreira para a área de Desenvolvimento Web, se especializando através da EBAC no Curso Profissionalizante Full Stack Python e outras plataformas como ESTUDONAUTA, ORIGAMID, ONEBITCODE com o objetivo de evoluir e conquistar posições cada vez mais desafiadoras e de maior valor dentro da área de desenvolvimento de software. Almejo fazer parte de uma equipe colaborativa, onde possa contribuir com minhas habilidades e aprender com meus colegas, me tornando um profissional altamente capacitado e com entregas de qualidade. Estou empenhado em agregar valor aos projetos que fizer parte, buscando sempre a excelência em meu trabalho e colaborando para o sucesso da equipe e da empresa.</p> 
 </div>
 <h2 align="center"> 🧑🏻‍💻 Atividade </h2>
 <div align="center">

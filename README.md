@@ -1,5 +1,10 @@
 <h2 align="left">Olá 🖐️sou Emmanuel Marcos de Oliveira</h2>
-<p align="left"><img src="https://komarev.com/ghpvc/?username=emmanuelmarcosdeoliveira&color=yellow" alt="Profile views"/></p>
+
+<img src="https://komarev.com/ghpvc/?username=emmanuelmarcosdeoliveira&color=yellow" alt="Profile views"/>
+
+![Profile](https://img.shields.io/badge/Profile%20Visitors-172B4D?style=for-the-badge&logo=Opsgenie&logoColor=white)<br>
+
+
 
 
 <div style="display: inline_block">
@@ -8,6 +13,7 @@
 - 👨‍🎓  Formado em Tecnologia de Redes de Computadores 
 - 👨‍💻  Sou um Profissional em transição de Carreira para a área de Desenvolvimento Full Stack<br>
 - 🎒  Atualmente Fazendo o Curso de Full Stack Python da EBAC<br>
+- 🖲️  [Portifolio](https://oliveira-portifolio.vercel.app/)
 
 <h3 align="left">Tecnologias e Ferramentas utliziadas</h3>
 
@@ -25,16 +31,14 @@
 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emmanuelmarcosdeoliveira&show_icons=true)<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuelmarcosdeoliveira&layout=compact)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emmanuelmarcosdeoliveira&show_icons=true&theme=radical)
 
+<h3 align="left">📲Contatos</h3>
 
-<h3 align="left">📲Contato</h3>
-
-![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-marcos-oliveira/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](malito:emmanuelmarcosdeoliveira@gmail.com)
+[![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511968336094)
 
 
 

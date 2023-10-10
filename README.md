@@ -32,13 +32,20 @@
 [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Naereen&theme=blue-green)](https://github.com/emmanuelmarcosdeoliveira/github-readme-streak-stats)
 
 
+ <img height="203px" src="https://emmanuelmarcosdeoliveira-github-readme-stats.vercel.app/api?username=emmanuelmarcosdeoliveira&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&custom_title=Status%20do%20Github&cache_seconds=14400" />
+ 
+  <img height="203px" src="https://streak-stats.demolab.com?user=emmanuelmarcosdeoliveira&theme=tokyonight&hide_border=true" />
 
- <img  height="142em" src="https://github-readme-stats.vercel.app/api?username=emmanuelmarcosdeoliveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/><br>
+
+ <img  height="142em" src="https://github-readme-stats.vercel.app/api?username=emmanuelmarcosdeoliveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
+ 
+ <br>
+ 
  <img max-width="550" src="https://github-readme-stats.vercel.app/api/top-langs/?username={emmanuelmarcosdeoliveira}&theme=blue-green"/>
 
 </div>
 
-
+ <img src="https://emmanuelmarcosdeoliveira-github-readme-stats.vercel.app/api/wakatime?username=emmanuelmarcosdeoliveira&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Tempo%20Codando&range=all_time&cache_seconds=14400" />
 
 <br>
 <br>

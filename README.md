@@ -28,10 +28,17 @@
 <br>
 <br>
 
+ 
+[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Naereen&theme=blue-green)](https://github.com/emmanuelmarcosdeoliveira/github-readme-streak-stats)
+
+
+
  <img  height="142em" src="https://github-readme-stats.vercel.app/api?username=emmanuelmarcosdeoliveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/><br>
  <img max-width="550" src="https://github-readme-stats.vercel.app/api/top-langs/?username={emmanuelmarcosdeoliveira}&theme=blue-green"/>
 
 </div>
+
+
 
 <br>
 <br>

@@ -2,7 +2,7 @@
 <h2 align="left">Olá 🖐️sou Emmanuel Marcos de Oliveira</h2>
 
 ![Profile](https://img.shields.io/badge/Profile%20Visitors-172B4D?style=for-the-badge&logo=Opsgenie&logoColor=white)<br>
-<img width="200" align="center" style="border-radius: 10_rem" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Profile views"/><br>
+<img width="300" align="center" style="border-radius: 10_rem" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Profile views"/><br>
 
 
 
@@ -14,6 +14,7 @@
 - 👨‍🎓  Formado em Tecnologia de Redes de Computadores 
 - 👨‍💻  Sou um Profissional em transição de Carreira para a área de Desenvolvimento Full Stack<br>
 - 🎒  Atualmente Fazendo o Curso de Full Stack Python da EBAC<br>
+- 📖 Entusiasta de UX/UI Design 
 - 🖲️  [Portifolio](https://oliveira-portifolio.vercel.app/)
 
 <h3 align="left">Tecnologias e ferramentas utilizadas</h3>

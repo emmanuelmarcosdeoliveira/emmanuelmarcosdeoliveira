@@ -19,41 +19,22 @@
 
 <h4>Profissional em transição de carreira</h4>  
 </div>
+
 <div width="300">
 <p>Meu Objetivo é Fazer uma transição de carreira para a área de Desenvolvimento Web, se especializando através da EBAC no Curso Profissionalizante Full Stack Python e outras plataformas como ESTUDONAUTA, ORIGAMID, ONEBITCODE com o objetivo de evoluir e conquistar posições cada vez mais desafiadoras e de maior valor dentro da área de desenvolvimento de software. Almejo fazer parte de uma equipe colaborativa, onde possa contribuir com minhas habilidades e aprender com meus colegas, me tornando um profissional altamente capacitado e com entregas de qualidade. Estou empenhado em agregar valor aos projetos que fizer parte, buscando sempre a excelência em meu trabalho e colaborando para o sucesso da equipe e da empresa.</p> 
 </div>
+
 <h2 align="center"> 🧑🏻‍💻 Atividade </h2>
-
+<br>
+<br>
 <div align="center">
+<img height="203px" src="https://streak-stats.demolab.com?user=emmanuelmarcosdeoliveira&theme=tokyonight&hide_border=true"/>
+</div>
 <br>
-<br>
-
- 
-[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Naereen&theme=blue-green)](https://github.com/emmanuelmarcosdeoliveira/github-readme-streak-stats)
-
-
- <img height="203px" src="https://emmanuelmarcosdeoliveira-github-readme-stats.vercel.app/api?username=emmanuelmarcosdeoliveira&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&custom_title=Status%20do%20Github&cache_seconds=14400" />
- 
-  <img height="203px" src="https://streak-stats.demolab.com?user=emmanuelmarcosdeoliveira&theme=tokyonight&hide_border=true" />
-
-
- <img  height="142em" src="https://github-readme-stats.vercel.app/api?username=emmanuelmarcosdeoliveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
- 
- <br>
- 
- <img max-width="550" src="https://github-readme-stats.vercel.app/api/top-langs/?username={emmanuelmarcosdeoliveira}&theme=blue-green"/>
-
+<div align="center">
+ <img width="500px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuelmarcosdeoliveira&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
- <img src="https://emmanuelmarcosdeoliveira-github-readme-stats.vercel.app/api/wakatime?username=emmanuelmarcosdeoliveira&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Tempo%20Codando&range=all_time&cache_seconds=14400" />
-
-<br>
-<br>
-<br>
-
-<div align="center">
- <img height="182em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuelmarcosdeoliveira&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
 <h2 align="center">⚙️ Tecnologias & ferramentas</h2> 
 <br>
 <br>

@@ -2,8 +2,12 @@
 <h1 align="center">Sejam Muito Bem Vindos ao meu Git-Hub.</h1>
 
 
+
+
 <div align="center">
 <img max-width="550" src="https://github.com/emmanuelmarcosdeoliveira/emmanuelmarcosdeoliveira/blob/main/marginalia-programming.gif" />
+
+ 
 </div>
  
 <h1 align="center">👋 Olá, sou Emmanuel Marcos de Oliveira.</h1>  
@@ -12,6 +16,7 @@
 </div>  
 <div align="center">
 <img width="450" src="https://github.com/emmanuelmarcosdeoliveira/emmanuelmarcosdeoliveira/blob/main/checklist.svg" />
+
 <h4>Profissional em transição de carreira</h4>  
 </div>
 <div width="300">
@@ -23,7 +28,8 @@
 <br>
 <br>
 
- <img  height="142em" src="https://github-readme-stats.vercel.app/api?username=emmanuelmarcosdeoliveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>         
+ <img  height="142em" src="https://github-readme-stats.vercel.app/api?username=emmanuelmarcosdeoliveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/><br>
+ <img max-width="550" src="https://github-readme-stats.vercel.app/api/top-langs/?username={emmanuelmarcosdeoliveira}&theme=blue-green"/>
 
 </div>
 

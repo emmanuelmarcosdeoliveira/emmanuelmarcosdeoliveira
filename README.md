@@ -1,8 +1,9 @@
+
 <h2 align="left">Olá 🖐️sou Emmanuel Marcos de Oliveira</h2>
 
-<img src="https://komarev.com/ghpvc/?username=emmanuelmarcosdeoliveira&color=yellow" alt="Profile views"/>
-
 ![Profile](https://img.shields.io/badge/Profile%20Visitors-172B4D?style=for-the-badge&logo=Opsgenie&logoColor=white)<br>
+<img width="200" align="center" style="border-radius: 10_rem" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Profile views"/><br>
+
 
 
 

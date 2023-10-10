@@ -16,7 +16,7 @@
 - 🎒  Atualmente Fazendo o Curso de Full Stack Python da EBAC<br>
 - 🖲️  [Portifolio](https://oliveira-portifolio.vercel.app/)
 
-<h3 align="left">Tecnologias e Ferramentas utliziadas</h3>
+<h3 align="left">Tecnologias e ferramentas utilizadas</h3>
 
 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
@@ -38,7 +38,7 @@
 <h3 align="left">📲Contatos</h3>
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-marcos-oliveira/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](malito:emmanuelmarcosdeoliveira@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](hhttps://malito:emmanuelmarcosdeoliveira@gmail.com)
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511968336094)
 
 

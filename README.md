@@ -2,8 +2,8 @@
 <h2 align="left">Olá 🖐️sou Emmanuel Marcos de Oliveira</h2>
 
  <img src="https://komarev.com/ghpvc/?username=emmanuelmarcosdeoliveira&color=yellow" alt="Profile views" /><br>
-<div align="left" style="border-raidus:50%">
-<img width="300" height="250" align="center" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Profile views"/><br>
+<div align="left">
+<img width="400" height="250" align="center" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Profile views"/><br>
 </div>
 <br>
 

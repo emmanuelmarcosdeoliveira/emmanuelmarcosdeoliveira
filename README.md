@@ -25,7 +25,7 @@
 <img  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg"/>
 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grunt/grunt-original.svg" />
-<img width="130" src="https://media.licdn.com/dms/image/D4E22AQH-Mjn7auFmtg/feedshare-shrink_800/0/1683300895512?e=1699488000&v=beta&t=Nx9iCl3rkw1Lb9zrN_ZgJ4_s8rIjFkiXqhQyBUJ6FcQ"/>
+<img width="130" src="https://future-architect.github.io/images/20201111/parcel.png"/>
 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 </div>
 

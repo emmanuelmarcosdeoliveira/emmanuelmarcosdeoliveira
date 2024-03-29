@@ -29,11 +29,15 @@
 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 </div>
 
-<div style="display: flex">
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=emmanuelmarcosdeoliveira&show_icons=true"/>
-<img height="150" style="padding-left:1%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuelmarcosdeoliveira&layout=compact"/>
+
+<a href="https://github.com/emmanuelmarcosdeoliveira/github-readme-stats">
+  <img height=200 width="460" align="center" src="https://github-readme-stats.vercel.app/api?username=emmanuelmarcosdeoliveira" />
+</a>
+<a href="https://github.com/emmanuelmarcosdeoliveira/convoychat">
+  <img height=200  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emmanuelmarcosdeoliveira&layout=compact&langs_count=8&card_width=320"/>
+</a>
+
 <br>
-</div>
 <h3 align="left">📲Contatos</h3>
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-marcos-oliveira/)

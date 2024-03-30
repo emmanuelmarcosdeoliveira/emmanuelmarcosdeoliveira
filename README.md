@@ -33,7 +33,7 @@
 <a href="https://github.com/emmanuelmarcosdeoliveira/github-readme-stats">
   <img height=200 width="460" align="center" src="https://github-readme-stats.vercel.app/api?username=emmanuelmarcosdeoliveira" />
 </a>
-<a href="https://github.com/emmanuelmarcosdeoliveira/convoychat">
+<a href="https://github.com/emmanuelmarcosdeoliveira">
   <img height=200  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emmanuelmarcosdeoliveira&layout=compact&langs_count=8&card_width=460"/>
 </a>
 

@@ -1,4 +1,4 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">Olá sou EmmanuelMarcos de Oliveira</h1>
+<h1 align="left"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">Olá sou Emmanuel Marcos de Oliveira</h1>
 
 <img src="https://komarev.com/ghpvc/?username=emmanuelmarcosdeoliveira&color=yellow" alt="Profile views" /><br>
 
@@ -8,21 +8,21 @@
 
 ##
 
-<h1 align="center"> Sobre Mim </h1>
+<h2 align="center"> Sobre Mim </h2>
 
 ##
 
 <ul align="left">
-  <li>🔭 Atualmente estou em <strong?>transição de carreira</strong> para o Desenvolvimento de Software FullStack.</li>
-  <li>👨‍🎓 Formado em <strong>Tecnologia de Redes de Computadores</strong></li>
-  <li>💻Obtendo  minha Formação pela<a href="https://github.com/devemdobro" target="_blank"> EBAC</a></li>  
+  <li>🔭 Atualmente estou em <strong?>transição de carreira</strong> para área de Desenvolvimento de Software FullStack.</li>
+    <li>💻Obtendo  minha Formação pela<a href="https://github.com/devemdobro" target="_blank"> EBAC</a></li>  
   <li>Meu Nível de inglês é <strong>Beginer</li>
+  <li>👨‍🎓E sou Formado em <strong>Tecnologia de Redes de Computadores</strong></li>
   </ul>
 
   
 ##
 
-<h1 align="center">Atualmente Estudando</h1>
+<h2 align="center">Atualmente Estudando</h2>
 
 ##
 
@@ -33,7 +33,7 @@
 
 ##
 
-<h1 align="center"> Minha Stack </h1>
+<h2 align="center"> Minha Stack </h2>
 
 ##
 
@@ -227,11 +227,14 @@
   </tr>
 </table>
 
-##
-
-<h3 align="center">📊 My Github Stats</h3><br>
 
 ##
+
+<h2 align="center">📊 My Github Stats</h2>
+
+##
+
+
 <div  align="center">
 <a href="https://github.com/emmanuelmarcosdeoliveira/github-readme-stats">
   <img height=200 width="400" align="center" src="https://github-readme-stats.vercel.app/api?username=emmanuelmarcosdeoliveira" />
@@ -240,8 +243,13 @@
   <img height=175  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emmanuelmarcosdeoliveira&layout=compact&langs_count=8&card_width=401"/>
 </a>
 <div>
-<br>
-<h3 align="center">📲Contatos</h3>
+
+##
+
+<h2 align="center">📲Contatos</h2>
+
+## 
+
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-marcos-oliveira/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emmanuelmarcosdeoliveira@gmail.com)

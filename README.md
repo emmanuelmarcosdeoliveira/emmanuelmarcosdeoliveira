@@ -22,7 +22,7 @@
   
 ##
 
-<h1 align="center">Estudando agora</h1>
+<h1 align="center">Atualmente Estudando</h1>
 
 ##
 

@@ -1,10 +1,17 @@
 <h1 align="left"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">Olá sou Emmanuel Marcos de Oliveira</h1>
 
-<img src="https://komarev.com/ghpvc/?username=emmanuelmarcosdeoliveira&color=yellow" alt="Profile views" /><br>
+<div>
+<img src="https://komarev.com/ghpvc/?username=emmanuelmarcosdeoliveira&color=yellow" alt="Profile views" />
+<img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/emmanuelmarcosdeoliveira/emmanuelmarcosdeoliveira" />
+<img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/emmanuelmarcosdeoliveira/emmanuelmarcosdeoliveira" />
+<img alt="GitHub Closed Pull Requests" src="https://img.shields.io/github/issues-pr-closed/emmanuelmarcosdeoliveira/emmanuelmarcosdeoliveira" />
+</div>
+
 
 <div align="center">
 <img src="./images/Banner Linkedin.png" alt="Profile views" /><br>
 </div>
+
 
 ##
 

@@ -36,8 +36,9 @@
 <h1 align="center"> Minha Stack </h1>
 
 ##
-<div overflow="auto" align="center" height="300px" width="250px">
-<table align="center" height="300px" width="250px">
+
+
+<table align="center" height="300px">
   <tr>
     <td align="center">
       <a href="https://pt-br.reactjs.org/">
@@ -69,8 +70,6 @@
         </sub>
       </a>
     </td>
-    </tr>
-     <tr>
      <td align="center">
       <a href="https://getbootstrap.com/">
         <img src="https://skillicons.dev/icons?i=bootstrap" width="65px" alt="Bootstrap icon"/><br/>
@@ -101,9 +100,7 @@
         </sub>
       </a>
     </td>
-    </tr>
-    <tr>
-    <td align="center">
+      <td align="center">
       <a href="https://styled-components.com/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" width="65px" alt="Styled Components icon"/><br/>
         <sub>
@@ -123,6 +120,8 @@
         </sub>
       </a>
     </td>
+     </tr>
+    <tr>
     <td align="center">
       <a href="https://vuejs.org/">
         <img src="https://skillicons.dev/icons?i=vuejs" width="65px" alt="vuejs icon"/><br/>
@@ -133,9 +132,7 @@
         </sub>
       </a>
     </td>
-    </tr>
-    <tr>
-    <td align="center">
+        <td align="center">
       <a href="https://code.visualstudio.com/">
         <img src="https://skillicons.dev/icons?i=vscode" width="65px" alt="visual studio code icon"/><br/>
         <sub>
@@ -165,9 +162,7 @@
         </sub>
       </a>
     </td> 
-    </tr> 
-   <tr>
-    <td align="center">
+      <td align="center">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65px" alt="Javascript icon"/><br/>
         <sub>
@@ -197,9 +192,7 @@
         </sub>
       </a>
     </td>
-    </tr>
-    <tr>
-    <td align="center">
+   <td align="center">
       <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="65px" alt="HTML5 icon"/><br/>
         <sub>
@@ -209,6 +202,8 @@
         </sub>
       </a>
     </td>
+        </tr> 
+   <tr>
       <td align="center">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="65px" alt="Javascript icon"/><br/>
@@ -231,7 +226,6 @@
     </td>
   </tr>
 </table>
-</div>
 
 ##
 

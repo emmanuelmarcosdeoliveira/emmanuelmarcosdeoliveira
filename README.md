@@ -36,8 +36,8 @@
 <h1 align="center"> Minha Stack </h1>
 
 ##
-
-<table align="center" height="300px" width="300px">
+<div overflow="auto" align="center" height="300px" width="250px">
+<table align="center" height="300px" width="250px">
   <tr>
     <td align="center">
       <a href="https://pt-br.reactjs.org/">
@@ -231,6 +231,7 @@
     </td>
   </tr>
 </table>
+</div>
 
 ##
 

@@ -37,7 +37,7 @@
 
 ##
 
-<table align="center" height="300px">
+<table align="center" height="300px" width="300px">
   <tr>
     <td align="center">
       <a href="https://pt-br.reactjs.org/">

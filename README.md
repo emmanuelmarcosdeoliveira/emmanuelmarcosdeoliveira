@@ -7,12 +7,13 @@
 </div>
 <h1 align="center"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">Olá sou Emmanuel Marcos de Oliveira</h1>
 
-##
-##
+
+<br>
+<br>
 
 <h2 align="center"> Sobre Mim </h2>
 
-##
+<br>
 
 <ul align="left">
   <li>🔭 Atualmente estou em <strong?>transição de carreira</strong> para área de Desenvolvimento de Software FullStack.</li>
@@ -22,22 +23,24 @@
   </ul>
 
   
-##
+<br>
 
 <h2 align="center">Atualmente Estudando</h2>
 
-##
+<br>
+<br>
 
 <div align="center" >
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;"/> 
  <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
 </div>
 
-##
+<br>
 
 <h2 align="center"> Minha Stack </h2>
 
-##
+<br>
+<br>
 
 
 <table align="center" height="300px">
@@ -230,11 +233,12 @@
 </table>
 
 
-##
+<br>
+<br>
 
 <h2 align="center">📊 My Github Stats</h2>
 
-##
+<br>
 
 
 <div  align="center">
@@ -242,11 +246,11 @@
   <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emmanuelmarcosdeoliveira&layout=compact&langs_count=8&card_width=401"/>
 <div>
 
-##
+<br>
 
 <h2 align="center">📲Contatos</h2>
 
-## 
+<br> 
 
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-marcos-oliveira/)

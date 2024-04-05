@@ -43,7 +43,7 @@
 <br>
 
 
-<table align="center" height="328">
+<table align="center">
   <tr>
     <td align="center">
       <a href="https://pt-br.reactjs.org/">

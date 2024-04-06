@@ -1,8 +1,8 @@
 
 <div align="center">
-<img src="./images/Banner Linkedin.png" alt="Profile views" /><br>
+<img src="./images/my_banner.gif" alt="Profile views" /><br>
 </div>
-<div>
+<div align="right">
 <img src="https://komarev.com/ghpvc/?username=emmanuelmarcosdeoliveira&color=yellow" alt="Profile views" />
 </div>
 <h1 align="center"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">Olá sou Emmanuel Marcos de Oliveira</h1>
@@ -16,10 +16,12 @@
 <br>
 
 <ul align="left">
-  <li>🔭 Atualmente estou em <strong?>transição de carreira</strong> para área de Desenvolvimento de Software FullStack.</li>
-    <li>💻Obtendo  minha Formação pela<a href="https://github.com/devemdobro" target="_blank"> EBAC</a></li>  
-  <li>Meu Nível de inglês é <strong>Beginer</li>
-  <li>👨‍🎓E sou Formado em <strong>Tecnologia de Redes de Computadores</strong></li>
+   <li>🔭 Atualmente estou em <strong?>transição de carreira</strong> para área de Desenvolvimento de Software FullStack.</li>
+   <li>💻Obtendo  minha Formação pela<a href="https://ebaconline.com.br/" target="_blank"> EBAC</a></li>  
+   <li>👨‍🎓Formado em <strong>Tecnologia de Redes de Computadores</strong></li>
+  <li>🔍 <strong>Objetivo Profissional:</strong> Almejo uma posição como Engenheiro de Software - Desenvolvedor Full Stack, com o intuito de colaborar             com equipes talentosas em projetos que se caracterizam por seus desafios e inovação.</li>
+  <li>🌱<strong>Comprometimento:</strong>  Minha dedicação em aprender e me especializar com novas tecnologias, aliada à minha vontade de aprender, me           qualifica como um candidato ideal para a posição.</li>
+  <li>🤝 <strong>Abordagem de Trabalho:</strong> Valorizo a colaboração, juntamente com o trabalho em equipe, e estou sempre buscando maneiras de                 melhorar e crescer.</li>
   </ul>
 
   
@@ -256,3 +258,8 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-marcos-oliveira/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emmanuelmarcosdeoliveira@gmail.com)
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511968336094)
+
+<br>
+<br>
+
+<h2 align="center">⬇️ Meus Repositórios</h2>

@@ -3,6 +3,7 @@
 </div>
 <div align="right">
 <img src="https://komarev.com/ghpvc/?username=emmanuelmarcosdeoliveira&color=yellow" alt="Profile views" />
+<img alt="GitHub Forks" src="https://img.shields.io/github/forks/emmanuelmarcosdeoliveira/emmanuelmarcosdeoliveira"/>
 </div>
 <h1 align="center"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">Olá sou Emmanuel Marcos de Oliveira</h1>
 
@@ -23,10 +24,6 @@
   <li>📃 Veja meu Certificados acessando aqui ▶️ <a href='https://github.com/emmanuelmarcosdeoliveira/meus-certificados'>Meus Certificados </a>
   <li> 🥇Veja uma lista com todos os meus projetos acessando aqui ▶️ <a href="https://github.com/emmanuelmarcosdeoliveira/meus-projetos">Projetos</a>  </li> 
   </ul>
-
-`#0969da` Teste
-[]
-
 <br>
 
 <h2 align="center">Atualmente Estudando</h2>
@@ -243,7 +240,7 @@
 <br>
 
 <div  align="center">
-  <img height=200 width="400" padding-left="50px" align="center" src="https://github-readme-stats.vercel.app/api?username=emmanuelmarcosdeoliveira" />
+  <img height=200 width="400" align="center" src="https://github-readme-stats.vercel.app/api?username=emmanuelmarcosdeoliveira" /> &emsp;
   <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emmanuelmarcosdeoliveira&layout=compact&langs_count=8&card_width=401"/>
 <div>
 
@@ -254,7 +251,10 @@
 <br>
 
 <div>
+
+<kbd> 
 <img height="80" src="https://myoctocat.com/assets/images/base-octocat.svg"/>
+</kbd>
 
 </div>
 

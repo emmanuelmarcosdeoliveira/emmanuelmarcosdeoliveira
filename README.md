@@ -1,4 +1,3 @@
-
 <div align="center">
 <img src="./images/my_banner.gif" alt="Profile views" /><br>
 </div>
@@ -6,7 +5,6 @@
 <img src="https://komarev.com/ghpvc/?username=emmanuelmarcosdeoliveira&color=yellow" alt="Profile views" />
 </div>
 <h1 align="center"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">Olá sou Emmanuel Marcos de Oliveira</h1>
-
 
 <br>
 <br>
@@ -18,13 +16,14 @@
 <ul align="left">
    <li>🔭 Atualmente estou em <strong?>transição de carreira</strong> para área de Desenvolvimento de Software FullStack.</li>
    <li>💻Obtendo  minha Formação pela<a href="https://ebaconline.com.br/" target="_blank"> EBAC</a></li>  
-   <li>👨‍🎓Formado em <strong>Tecnologia de Redes de Computadores</strong></li>
-  <li>🔍 <strong>Objetivo Profissional:</strong> Almejo uma posição como Engenheiro de Software - Desenvolvedor Full Stack, com o intuito de colaborar             com equipes talentosas em projetos que se caracterizam por seus desafios e inovação.</li>
-  <li>🌱<strong>Comprometimento:</strong>  Minha dedicação em aprender e me especializar com novas tecnologias, aliada à minha vontade de aprender, me           qualifica como um candidato ideal para a posição.</li>
-  <li>🤝 <strong>Abordagem de Trabalho:</strong> Valorizo a colaboração, juntamente com o trabalho em equipe, e estou sempre buscando maneiras de                 melhorar e crescer.</li>
+   <li>👨‍🎓Formado em <strong><a href="https://unisantanna.br/">Tecnologia de Redes de Computadores</a></strong></li><br>
+  <li>🔍 <strong>Objetivo Profissional:</strong> Almejo uma posição como Engenheiro de Software - Desenvolvedor Full Stack, com o intuito de colaborar             com equipes talentosas em projetos que se caracterizam por seus desafios e inovação.</li><br>
+  <li>🌱<strong>Comprometimento:</strong>  Minha dedicação em aprender e me especializar com novas tecnologias, aliada à minha vontade de aprender, me           qualifica como um candidato ideal para a posição.</li><br>
+  <li>🤝 <strong>Abordagem de Trabalho:</strong> Valorizo a colaboração, juntamente com o trabalho em equipe, e estou sempre buscando maneiras de                 melhorar e crescer.</li><br>
+  <li>📃 Veja meu Certificados acessando aqui ▶️ <a href='https://github.com/emmanuelmarcosdeoliveira/meus-certificados'>Meus Certificados </a>
+  <li>🥇Veja uma lista com todos os meus projetos acessando aqui ▶️ <a href="https://github.com/emmanuelmarcosdeoliveira/meus-projetos">Projetos</a>  </li> 
   </ul>
 
-  
 <br>
 
 <h2 align="center">Atualmente Estudando</h2>
@@ -43,7 +42,6 @@
 
 <br>
 <br>
-
 
 <table align="center">
   <tr>
@@ -234,7 +232,6 @@
   </tr>
 </table>
 
-
 <br>
 <br>
 
@@ -242,9 +239,8 @@
 
 <br>
 
-
 <div  align="center">
-  <img height=200 width="400" align="center" src="https://github-readme-stats.vercel.app/api?username=emmanuelmarcosdeoliveira" />
+  <img height=200 width="400" padding-left="50px" align="center" src="https://github-readme-stats.vercel.app/api?username=emmanuelmarcosdeoliveira" />
   <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emmanuelmarcosdeoliveira&layout=compact&langs_count=8&card_width=401"/>
 <div>
 
@@ -252,8 +248,7 @@
 
 <h2 align="center">📲Contatos</h2>
 
-<br> 
-
+<br>
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-marcos-oliveira/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emmanuelmarcosdeoliveira@gmail.com)

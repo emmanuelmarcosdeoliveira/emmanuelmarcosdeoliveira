@@ -252,9 +252,13 @@
 
 <div>
 
+<img height="120px" alt="GitHub" src="https://octodex.github.com/images/jetpacktocat.png" />
+
+<!-- 
 <kbd> 
 <img height="80" src="https://myoctocat.com/assets/images/base-octocat.svg"/>
 </kbd>
+-->
 
 <br>
 <br>

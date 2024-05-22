@@ -274,3 +274,8 @@
 <br>
 
 <h2 align="center">⬇️ Meus Repositórios</h2>
+
+
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+

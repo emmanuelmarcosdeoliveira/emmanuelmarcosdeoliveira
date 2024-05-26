@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./images/my_banner.gif" alt="Profile views" /><br>
+<img src="https://github.com/emmanuelmarcosdeoliveira/emmanuelmarcosdeoliveira/blob/main/images/Emmanuel%20M.%20Oliveira.gif" /><br>
 </div>
 <div align="right">
 <img src="https://komarev.com/ghpvc/?username=emmanuelmarcosdeoliveira&color=yellow" alt="Profile views" />

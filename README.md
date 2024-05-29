@@ -3,6 +3,7 @@
 </div>
 <div align="right">
 <img src="https://komarev.com/ghpvc/?username=emmanuelmarcosdeoliveira&color=yellow" alt="Profile views" />
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/emmanuelmarcosdeoliveira">
 <img alt="GitHub Forks" src="https://img.shields.io/github/forks/emmanuelmarcosdeoliveira/emmanuelmarcosdeoliveira"/>
 </div>
 <h1 align="center"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">Olá sou Emmanuel Marcos de Oliveira</h1>

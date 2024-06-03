@@ -97,7 +97,7 @@
       </a>
     </td>
      <tr/>
-        <tr>
+   <tr>
       <td align="center">
       <a href="https://styled-components.com/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" width="65px" alt="Styled Components icon"/><br/>
@@ -297,6 +297,3 @@
 <br>
 
 <h2 align="center">⬇️ Meus Repositórios</h2>
-
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="65" height="65" /></div>
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /></div>

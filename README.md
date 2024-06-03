@@ -96,16 +96,6 @@
         </sub>
       </a>
     </td>
-     <td align="center">
-      <a href="https://www.typescriptlang.org/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" width="65px" alt="Typescript icon"/><br/>
-        <sub>
-          <b>
-            <pre>LESS</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
      <tr/>
         <tr>
       <td align="center">
@@ -158,17 +148,7 @@
         </sub>
       </a>
     </td>
-    <td align="center">
-      <a href="https://ohmyz.sh/">
-        <img src="https://skillicons.dev/icons?i=bash" width="65px" alt="bash icon"/><br/>
-        <sub>
-          <b>
-            <pre>Terminal</pre>
-          </b>
-        </sub>
-      </a>
-    </td> 
-        </tr>
+       </tr>
       <tr>
       <td align="center">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/">
@@ -210,7 +190,7 @@
         </sub>
       </a>
     </td>
-       <td align="center">
+     <td align="center">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="65px" alt="Javascript icon"/><br/>
         <sub>
@@ -220,7 +200,49 @@
         </sub>
       </a>
     </td>
-    <td align="center">
+     </tr>
+   <tr>
+      <td align="center">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/">
+       <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="65" height="65" /><br>
+        <sub>
+          <b>
+            <pre>Prettier</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+        <td align="center">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+        <sub>
+          <b>
+            <pre>GitHub</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+       <td align="center">
+      <a href="https://www.typescriptlang.org/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" width="65px" alt="Typescript icon"/><br/>
+        <sub>
+          <b>
+            <pre>LESS</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+       <td align="center">
+      <a href="https://ohmyz.sh/">
+        <img src="https://skillicons.dev/icons?i=bash" width="65px" alt="bash icon"/><br/>
+        <sub>
+          <b>
+            <pre>Terminal</pre>
+          </b>
+        </sub>
+      </a>
+    </td> 
+      <td align="center">
       <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="65px" alt="CSS3 icon"><br/>
         <sub>
@@ -230,7 +252,7 @@
         </sub>
       </a>
     </td>
-  </tr>
+      </tr>
 </table>
 
 <br>
@@ -276,3 +298,5 @@
 
 <h2 align="center">⬇️ Meus Repositórios</h2>
 
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="65" height="65" /></div>
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /></div>

@@ -269,31 +269,76 @@
 
 <br>
 
-<h2 align="center">📲Contatos</h2>
 
-<br>
+<h2 align="center">Melhores Repositórios React 🔯 </h2>
 
-<div>
-
-<img height="120px" alt="GitHub" src="https://octodex.github.com/images/jetpacktocat.png" />
-
-<!-- 
-<kbd> 
-<img height="80" src="https://myoctocat.com/assets/images/base-octocat.svg"/>
-</kbd>
--->
-
-<br>
-<br>
-
-</div>
-
+ 
+<table align="left">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/emmanuelmarcosdeoliveira/portfolio-github">
+      <img height="120px" width="350" alt="GitHub" src="https://github-readme-stats.vercel.app/api/pin/?username=emmanuelmarcosdeoliveira&repo=portfolio-github" />
+         <b>
+            <kbd>Porfolio GitHub</kbd>
+        </b>
+    </a>
+   </td>
+       <td align="center">
+      <a href="https://github.com/emmanuelmarcosdeoliveira/portfolio-github">
+      <img height="120px" width="350" alt="GitHub" src="https://github-readme-stats.vercel.app/api/pin/?username=emmanuelmarcosdeoliveira&repo=portfolio-github" />
+         <b>
+            <kbd>Porfolio GitHub</kbd>
+        </b>
+    </a>
+   </td>
+      <td align="center">
+      <a href="https://github.com/emmanuelmarcosdeoliveira/portfolio-github">
+      <img height="120px" width="350" alt="GitHub" src="https://github-readme-stats.vercel.app/api/pin/?username=emmanuelmarcosdeoliveira&repo=portfolio-github" />
+         <b>
+            <kbd>Porfolio GitHub</kbd>
+        </b>
+    </a>
+   </td>
+ </tr>
+    <tr>
+    <td align="center">
+      <a href="https://github.com/emmanuelmarcosdeoliveira/portfolio-github">
+      <img height="120px" width="350" alt="GitHub" src="https://github-readme-stats.vercel.app/api/pin/?username=emmanuelmarcosdeoliveira&repo=portfolio-github" />
+         <b>
+            <kbd>Porfolio GitHub</kbd>
+        </b>
+    </a>
+   </td>
+       <td align="center">
+      <a href="https://github.com/emmanuelmarcosdeoliveira/portfolio-github">
+      <img height="120px" width="350" alt="GitHub" src="https://github-readme-stats.vercel.app/api/pin/?username=emmanuelmarcosdeoliveira&repo=portfolio-github" />
+         <b>
+            <kbd>Porfolio GitHub</kbd>
+        </b>
+    </a>
+   </td>
+      <td align="center">
+      <a href="https://github.com/emmanuelmarcosdeoliveira/portfolio-github">
+      <img height="120px" width="350" alt="GitHub" src="https://github-readme-stats.vercel.app/api/pin/?username=emmanuelmarcosdeoliveira&repo=portfolio-github" />
+         <b>
+            <kbd>Porfolio GitHub</kbd>
+        </b>
+    </a>
+   </td>
+ </tr>
+ </table>
+ 
+   <br>
+ 
+ <h2 align="center">📲Contatos</h2>
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-marcos-oliveira/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emmanuelmarcosdeoliveira@gmail.com)
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511968336094)
 
+<div>
+<img height="120px" alt="GitHub" src="https://octodex.github.com/images/jetpacktocat.png" />
 <br>
 <br>
 
-<h2 align="center">⬇️ Meus Repositórios</h2>
+</div>

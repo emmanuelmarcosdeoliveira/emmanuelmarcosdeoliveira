@@ -313,6 +313,14 @@
            </div>
        </a>
    </td>
+    <td align="center">
+      <a href="https://github.com/emmanuelmarcosdeoliveira/portfolio-github">
+         <img height="120px" width="350" alt="GitHub" src="https://github-readme-stats.vercel.app/api/pin/?username=emmanuelmarcosdeoliveira&repo=portfolio-github" />
+            <div>
+               <kbd>Porfolio GitHub</kbd>
+           </div>
+       </a>
+   </td>  
    </tr>
  </table>
 </div>

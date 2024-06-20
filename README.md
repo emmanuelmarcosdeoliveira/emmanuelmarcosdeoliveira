@@ -299,29 +299,29 @@
   <tr>
     <td align="center">
       <a href="https://github.com/emmanuelmarcosdeoliveira/portfolio-github">
-         <img height="120px" width="350" alt="GitHub" src="https://github-readme-stats.vercel.app/api/pin/?username=emmanuelmarcosdeoliveira&repo=portfolio-github" />
+         <img  alt="GitHub" src="https://github-readme-stats.vercel.app/api/pin/?username=emmanuelmarcosdeoliveira&repo=portfolio-github" />
             <div>
                <kbd>Porfolio GitHub</kbd>
+           </div>
+       </a>
+   </td>
+       <td align="center">
+      <a href="https://github.com/emmanuelmarcosdeoliveira/pass-in-web">
+         <img  alt="GitHub" src="https://github-readme-stats.vercel.app/api/pin/?username=emmanuelmarcosdeoliveira&repo=pass-in-web" />
+            <div>
+               <kbd>Pass in Web</kbd>
            </div>
        </a>
    </td>
       <td align="center">
-      <a href="https://github.com/emmanuelmarcosdeoliveira/portfolio-github">
-         <img height="120px" width="350" alt="GitHub" src="https://github-readme-stats.vercel.app/api/pin/?username=emmanuelmarcosdeoliveira&repo=portfolio-github" />
+      <a href="https://github.com/emmanuelmarcosdeoliveira/ebac_games_redux">
+         <img alt="GitHub" src="https://github-readme-stats.vercel.app/api/pin/?username=emmanuelmarcosdeoliveira&repo=ebac_games_redux" />
             <div>
-               <kbd>Porfolio GitHub</kbd>
+               <kbd>EBAC Games</kbd>
            </div>
        </a>
    </td>
-    <td align="center">
-      <a href="https://github.com/emmanuelmarcosdeoliveira/portfolio-github">
-         <img height="120px" width="350" alt="GitHub" src="https://github-readme-stats.vercel.app/api/pin/?username=emmanuelmarcosdeoliveira&repo=portfolio-github" />
-            <div>
-               <kbd>Porfolio GitHub</kbd>
-           </div>
-       </a>
-   </td>  
-   </tr>
+ </tr>
  </table>
 </div>
    

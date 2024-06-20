@@ -305,14 +305,6 @@
            </div>
        </a>
    </td>
-       <td align="center">
-      <a href="https://github.com/emmanuelmarcosdeoliveira/pass-in-web">
-         <img  alt="GitHub" src="https://github-readme-stats.vercel.app/api/pin/?username=emmanuelmarcosdeoliveira&repo=pass-in-web" />
-            <div>
-               <kbd>Pass in Web</kbd>
-           </div>
-       </a>
-   </td>
       <td align="center">
       <a href="https://github.com/emmanuelmarcosdeoliveira/ebac_games_redux">
          <img alt="GitHub" src="https://github-readme-stats.vercel.app/api/pin/?username=emmanuelmarcosdeoliveira&repo=ebac_games_redux" />

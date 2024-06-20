@@ -20,24 +20,13 @@
    <li>💻Obtendo  minha Formação pela<a href="https://ebaconline.com.br/" target="_blank"> EBAC</a></li>  
    <li>👨‍🎓Formado em <strong><a href="https://unisantanna.br/">Tecnologia de Redes de Computadores</a></strong></li><br>
   <li>🔍 Objetivo Profissional:</strong> Almejo uma posição como Engenheiro de Software - Desenvolvedor Full Stack, com o intuito de colaborar com equipes talentosas em projetos que se caracterizam por seus desafios e inovação.</li><br>
-  <li>🌱<strong>Comprometimento:</strong>  Minha dedicação em aprender e me especializar com novas tecnologias, aliada à minha vontade de aprender, me           qualifica como um candidato ideal para a posição.</li><br>
-  <li>🤝 <strong>Abordagem de Trabalho:</strong> Valorizo a colaboração, juntamente com o trabalho em equipe, e estou sempre buscando maneiras de                 melhorar e crescer.</li><br>
+  <li>🌱<strong>Comprometimento:</strong>  Minha dedicação em aprender e me especializar com novas tecnologias, aliada à minha vontade de aprender, me qualifica como um candidato ideal para a posição.</li><br>
+  <li>🤝 <strong>Abordagem de Trabalho:</strong> Valorizo a colaboração, juntamente com o trabalho em equipe, e estou sempre buscando maneiras de melhorar e crescer.</li><br>
   <li>📃 Veja meu Certificados acessando aqui ▶️ <a href='https://github.com/emmanuelmarcosdeoliveira/meus-certificados'>Meus Certificados </a>
   <li> 🥇Veja uma lista com todos os meus projetos acessando aqui ▶️ <a href="https://github.com/emmanuelmarcosdeoliveira/meus-projetos">Projetos</a>  </li> 
   </ul>
 <br>
 
-<h2 align="center">Atualmente Estudando</h2>
-
-<br>
-<br>
-
-<div align="center" >
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;"/> 
- <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-</div>
-
-<br>
 
 <h2 align="center"> Minha Stack </h2>
 
@@ -291,9 +280,11 @@
 
 
 
-
-<h2 align="center">Projetos desenvolvidos com React 🔯 </h2>
-
+<div align="center">
+<h2>Projetos desenvolvidos com React</h2>
+<img src="https://techstack-generator.vercel.app/react-icon.svg" width="36px" alt="React icon"/> 
+<div>
+   
 <div> 
 <table align="center">
   <tr>

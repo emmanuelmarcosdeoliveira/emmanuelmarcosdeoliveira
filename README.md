@@ -292,7 +292,7 @@
 
 
 
-<h2 align="center">Melhores Repositórios Desenvolvidos com React 🔯 </h2>
+<h2 align="center">Projetos desenvolvidos com React 🔯 </h2>
 
 <div> 
 <table align="center">

@@ -69,7 +69,8 @@
 
 <br>
 
-
+<a href="https://www.linkedin.com/in/emmanuel-marcos-oliveira" /> <img src="https://img.shields.io/badge/--path?style=social&logo=Linkedin&logoColor=%230664C1&logoSize=auto&label=Linkedin&labelColor=%23fff&cacheSeconds=--query&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Femmanuel-marcos-oliveira%2F
+ "/></a>
 
    
  

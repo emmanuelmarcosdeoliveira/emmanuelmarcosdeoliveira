@@ -3,6 +3,7 @@
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/emmanuelmarcosdeoliveira">
 <img alt="GitHub Forks" src="https://img.shields.io/github/forks/emmanuelmarcosdeoliveira/emmanuelmarcosdeoliveira"/>
 </div>
+
 <div align="center">
 <img src="https://github.com/emmanuelmarcosdeoliveira/servidor-estatico/blob/main/ApGitHub.gif"/><br>
 </div>
@@ -25,8 +26,17 @@
             <li>💻Obtendo minha Formação pela  <a href="https://ebaconline.com.br/" target="_blank">EBAC</a> através do Curso FullStack Python</li><br>  
             <li>🔍Meu Objetivo Profissional é:</strong> Almejo uma posição como Desenvolvedor Front-End e posteriormente Full Stack, com o intuito de colaborar com equipes talentosas 
                  em projetos que se caracterizam por seus desafios e inovação.</li><br>
-           </ul>
-      </td>
+
+[![Lindekin](https://img.shields.io/badge/--path?style=social&logo=Linkedin&logoColor=%230664C1&logoSize=auto&label=Linkedin&labelColor=%23fff&cacheSeconds=https%3A%2F%2Fwww.linkedin.com%2Fin%2Femmanuel-marcos-oliveira%2F)](https://www.linkedin.com/in/emmanuel-marcos-oliveira/)
+[![WhatsApp](https://img.shields.io/badge/--path?style=social&logo=WhatsApp&logoColor=%231F3833&logoSize=auto&label=WhatsApp&color=%23fff&cacheSeconds=https%3A%2F%2Fwa.me%2F5511968336094
+)](https://wa.me/5511968336094)
+[![Gmail](https://img.shields.io/badge/--path?style=social&logo=gmail&logoSize=auto&label=Gmail&color=%23fff&cacheSeconds=mailto%3Aemmanuelmarcosdeoliveira%40gmail.com
+)](mailto:emmanuelmarcosdeoliveira@gmail.com)
+[![Discord](https://img.shields.io/badge/--path?style=social&logo=discord&logoSize=auto&label=Discord&color=%23fff&cacheSeconds=https%3A%2F%2Fdiscord.com%2Finvite%2FjabEup5kEr
+)](https://discord.com/invite/jabEup5kEr)
+
+</ul>
+</td>
    <td>
        <img width="350" src="https://github.com/emmanuelmarcosdeoliveira/servidor-estatico/blob/main/Emmanuel%20Oliveira%20(1).gif" />  
    </td>

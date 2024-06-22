@@ -126,9 +126,8 @@
 
    <img height="120px" alt="GitHub" src="https://octodex.github.com/images/jetpacktocat.png" />
 
-![Static Badge](https://img.shields.io/badge/--path?style=social&logo=linkedin&logoColor=%230C67C3&logoSize=auto&label=Linkedin&labelColor=%23fff&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Femmanuel-marcos-oliveira%2F)
+![Static Badge](https://img.shields.io/badge/--path?style=social&logo=whatsapp&logoColor=%23256E3E&logoSize=auto&label=WhatsApp&labelColor=%23fff&cacheSeconds=https%3A%2F%2Fwa.me%2F5511968336094)
 
-![Static Badge](https://img.shields.io/badge/--path?style=social&logo=whatsapp&logoColor=%23256E3E&logoSize=auto&label=WhatsApp&labelColor=%23fff&link=vhttps%3A%2F%2Fwa.me%2F5511968336094)
 
 <br>
 <br>

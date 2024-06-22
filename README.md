@@ -4,28 +4,64 @@
 <img alt="GitHub Forks" src="https://img.shields.io/github/forks/emmanuelmarcosdeoliveira/emmanuelmarcosdeoliveira"/>
 </div>
 <div align="center">
-<img src="https://github.com/emmanuelmarcosdeoliveira/emmanuelmarcosdeoliveira/blob/main/images/Emmanuel%20M.%20Oliveira.gif" /><br>
+<img src="https://github.com/emmanuelmarcosdeoliveira/servidor-estatico/blob/main/ApGitHub.gif"/><br>
 </div>
 <br>
 <br>
 
-<h1 align="left"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">Olá sou Emmanuel Marcos de Oliveira</h1> 
+<h1 align="center"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">Olá sou Emmanuel Marcos de Oliveira</h1> 
    <td>  
 <ul align="left">
-   <li>🔭 Atualmente estou em <strong?>transição de carreira</strong> para área de Desenvolvimento de Software FullStack.</li>
-   <li>💻Obtendo  minha Formação pela<a href="https://ebaconline.com.br/" target="_blank"> EBAC</a></li>  
-   <li>👨‍🎓Formado em <strong><a href="https://unisantanna.br/">Tecnologia de Redes de Computadores</a></strong></li><br>
-  <li>🔍 Objetivo Profissional:</strong> Almejo uma posição como Engenheiro de Software - Desenvolvedor Full Stack, com o intuito de colaborar com equipes talentosas em projetos que se caracterizam por seus desafios e inovação.</li><br>
-  <li>🌱<strong>Comprometimento:</strong>  Minha dedicação em aprender e me especializar com novas tecnologias, aliada à minha vontade de aprender, me qualifica como um candidato ideal para a posição.</li><br>
-  <li>🤝 <strong>Abordagem de Trabalho:</strong> Valorizo a colaboração, juntamente com o trabalho em equipe, e estou sempre buscando maneiras de melhorar e crescer.</li><br>
-  <li>📃 Veja meu Certificados acessando aqui ▶️ <a href='https://github.com/emmanuelmarcosdeoliveira/meus-certificados'>Meus Certificados </a>
-  </ul>
+<br>
+<br>
+    
+   <h2>Sobre Min</h2>
+   <table>
+      <tr>
+         <td>
+          <ul>  
+            <li>👨‍🎓Sou Formado em <strong>Tecnologia de Redes de Computadores</a></strong> pela Faculdade UniSant´Anna</li><br>
+            <li>🔭Atualmente estou em <strong?>transição de carreira</strong> para área de Desenvolvimento de Software.</li><br>
+            <li>💻Obtendo minha Formação pela  <a href="https://ebaconline.com.br/" target="_blank">EBAC</a> através do Curso FullStack Python</li><br>  
+            <li>🔍Meu Objetivo Profissional é:</strong> Almejo uma posição como Desenvolvedor Front-End e posteriormente Full Stack, com o intuito de colaborar com equipes talentosas 
+                 em projetos que se caracterizam por seus desafios e inovação.</li><br>
+           </ul>
+      </td>
+   <td>
+       <img width="350" src="https://github.com/emmanuelmarcosdeoliveira/servidor-estatico/blob/main/Emmanuel%20Oliveira%20(1).gif" />  
+   </td>
+   </table>
+   
+<br>
+<br>
+   
+   ## Stack Front-End
+   <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gulp/gulp-plain.svg" />
+   <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grunt/grunt-original.svg" />
+   <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /> 
+   <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" />       
+   <img  width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-original.svg" />
+   <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+   <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+   <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
+   <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
+   <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/less/less-plain-wordmark.svg" />    
+   <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />       
+   <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+   <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />       
+                 
+   <br>
+   <br>
 
-
-<h2 align="center">📊 My Github Stats</h2>
-
+   ## Stack Back-End
+<img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+<img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
+<img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-original.svg" />
+                  
+<br>
 <br>
 
+<h2 align="left">📊 My Github Stats</h2>
 <div  align="center">
   <img height=200 width="400" align="center" src="https://github-readme-stats.vercel.app/api?username=emmanuelmarcosdeoliveira" /> &emsp;
   <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emmanuelmarcosdeoliveira&layout=compact&langs_count=8&card_width=401"/>
@@ -41,7 +77,7 @@
 
 
 <div align="center">
-<h2>Projetos desenvolvidos com React</h2>
+<h2>Meus Projetos Favoritos</h2>
 <img src="https://techstack-generator.vercel.app/react-icon.svg" width="36px" alt="React icon"/> 
 <div>
    
@@ -57,6 +93,14 @@
        </a>
    </td>
       <td align="center">
+      <a href="https://github.com/emmanuelmarcosdeoliveira/ebac_games_redux">
+         <img alt="GitHub" src="https://github-readme-stats.vercel.app/api/pin/?username=emmanuelmarcosdeoliveira&show_icons=true&theme=radical&repo=ebac_games_redux" />
+            <div>
+               <kbd>EBAC Games</kbd>
+           </div>
+       </a>
+   </td>
+   <td align="center">
       <a href="https://github.com/emmanuelmarcosdeoliveira/ebac_games_redux">
          <img alt="GitHub" src="https://github-readme-stats.vercel.app/api/pin/?username=emmanuelmarcosdeoliveira&show_icons=true&theme=radical&repo=ebac_games_redux" />
             <div>
@@ -81,6 +125,10 @@
 
 
    <img height="120px" alt="GitHub" src="https://octodex.github.com/images/jetpacktocat.png" />
+
+![Static Badge](https://img.shields.io/badge/--path?style=social&logo=linkedin&logoColor=%230C67C3&logoSize=auto&label=Linkedin&labelColor=%23fff&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Femmanuel-marcos-oliveira%2F)
+
+![Static Badge](https://img.shields.io/badge/--path?style=social&logo=whatsapp&logoColor=%23256E3E&logoSize=auto&label=WhatsApp&labelColor=%23fff&link=vhttps%3A%2F%2Fwa.me%2F5511968336094)
 
 <br>
 <br>

@@ -6,7 +6,13 @@
 
 ## Sobre Min 
 <div align="right">
-   <table>
+  <div align="left">
+<img src="https://komarev.com/ghpvc/?username=emmanuelmarcosdeoliveira&color=yellow" alt="Profile views" />
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/emmanuelmarcosdeoliveira">
+<!--<img alt="GitHub Forks" src="https://img.shields.io/github/forks/emmanuelmarcosdeoliveira/emmanuelmarcosdeoliveira"/>-->
+</div>
+
+  <table>
       <tr>
          <td>
           <ul>  
@@ -30,7 +36,8 @@
        <img width="350" src="https://github.com/emmanuelmarcosdeoliveira/servidor-estatico/blob/main/Emmanuel%20Oliveira%20(1).gif" />  
    </td>
    </table>
-   
+</ul>
+</div>   
    
 ### Languages and Technologies
    [![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,sass,less,bootstrap,gulp,figma)](https://skillicons.dev)

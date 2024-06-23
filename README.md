@@ -1,22 +1,11 @@
 
-
+  
 <div align="center">
-      <img src="https://github.com/emmanuelmarcosdeoliveira/servidor-estatico/blob/main/ApGitHub.gif"/><br>
-</div>
-      
-<!--<h1 align="center"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">Olá sou Emmanuel Marcos de Oliveira</h1>!--> 
-   <td>  
-<ul align="left">
-<br>
-<br>
-    
-   <h2>Sobre Min</h2>
-   <div align="left">
-<img src="https://komarev.com/ghpvc/?username=emmanuelmarcosdeoliveira&color=yellow" alt="Profile views" />
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/emmanuelmarcosdeoliveira">
-<img alt="GitHub Forks" src="https://img.shields.io/github/forks/emmanuelmarcosdeoliveira/emmanuelmarcosdeoliveira"/>
+<img src="https://github.com/emmanuelmarcosdeoliveira/servidor-estatico/blob/main/ApGitHub.gif" /><br>
 </div>
 
+## Sobre Min 
+<div align="right">
    <table>
       <tr>
          <td>

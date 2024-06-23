@@ -59,13 +59,13 @@
       
 
 
-<a href="https://github-readme-stats.vercel.app/api?username=emmanuelmarcosdeoliveira&show_icons=true&theme=dracula&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"><img height="372" src="https://github-readme-stats.vercel.app/api?username=emmanuelmarcosdeoliveira&show_icons=true&theme=dracula&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuelmarcosdeoliveira&theme=dracula&layout=donut-vertical"/></a>
+<a href="https://github-readme-stats.vercel.app/api?username=emmanuelmarcosdeoliveira&show_icons=true&theme=dracula&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"><img height="300" src="https://github-readme-stats.vercel.app/api?username=emmanuelmarcosdeoliveira&show_icons=true&theme=dracula&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuelmarcosdeoliveira&theme=dracula&layout=donut-vertical"/></a>
 
 
 
 
 ### Meus Projetos Favoritos
 
-<a href="https://github.com/emmanuelmarcosdeoliveira/portfolio-github"><img height="150"  alt="GitHub" src="https://github-readme-stats.vercel.app/api/pin/?username=emmanuelmarcosdeoliveira&show_icons=true&theme=dracula&repo=bikcraft"/></a>
-<a href="https://github.com/emmanuelmarcosdeoliveira/portfolio-github"><img height="150"  alt="GitHub" src="https://github-readme-stats.vercel.app/api/pin/?username=emmanuelmarcosdeoliveira&show_icons=true&theme=dracula&repo=portfolio-github"/></a>
+<a href="https://github.com/emmanuelmarcosdeoliveira/portfolio-github"><img height="130"  alt="GitHub" src="https://github-readme-stats.vercel.app/api/pin/?username=emmanuelmarcosdeoliveira&show_icons=true&theme=dracula&repo=bikcraft"/></a>
+<a href="https://github.com/emmanuelmarcosdeoliveira/portfolio-github"><img height="130"  alt="GitHub" src="https://github-readme-stats.vercel.app/api/pin/?username=emmanuelmarcosdeoliveira&show_icons=true&theme=dracula&repo=portfolio-github"/></a>

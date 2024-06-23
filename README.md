@@ -39,14 +39,14 @@
 </ul>
 </div>   
    
-### Languages and Technologies
+### Linguagens e Tecnologias
    [![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,sass,less,bootstrap,gulp,figma)](https://skillicons.dev)
     
     
-### Frameworks and Libraries             
+### Frameworks e Bibliotecas             
    [![My Skills](https://skillicons.dev/icons?i=vue,react,nodejs,styledcomponents,tailwind,redux,postgres,vite,)](https://skillicons.dev)
 
-### Tools and Platforms
+### Ferramentas e plataformas
    [![My Skills](https://skillicons.dev/icons?i=git,vscode,linux,bash,figma,pnpm,yarn,npm,vim,vercel)](https://skillicons.dev)
 
   
@@ -61,9 +61,28 @@
 
 
 
-### Meus Projetos Favoritos
+### Projetos
 
-<a href="https://github.com/emmanuelmarcosdeoliveira/portfolio-github"><img height="120"  alt="GitHub" src="https://github-readme-stats.vercel.app/api/pin/?username=emmanuelmarcosdeoliveira&show_icons=true&theme=dracula&repo=bikcraft"/></a>
-<a href="https://github.com/emmanuelmarcosdeoliveira/portfolio-github"><img height="120"  alt="GitHub" src="https://github-readme-stats.vercel.app/api/pin/?username=emmanuelmarcosdeoliveira&show_icons=true&theme=dracula&repo=to-do_vue_ebac"/></a>
-<a href="https://github.com/emmanuelmarcosdeoliveira/portfolio-github"><img height="120"  alt="GitHub" src="https://github-readme-stats.vercel.app/api/pin/?username=emmanuelmarcosdeoliveira&show_icons=true&theme=dracula&repo=animais-fantasticos"/></a>
-<a href="https://github.com/emmanuelmarcosdeoliveira/portfolio-github"><img height="120"  alt="GitHub" src="https://github-readme-stats.vercel.app/api/pin/?username=emmanuelmarcosdeoliveira&show_icons=true&theme=dracula&repo=github-profile"/></a>
+<table aling="center">
+<tr>
+<tr align="center">
+<th  colspan="2">Meu Projetos Favoritos</th>
+</tr>
+<td>
+<div>
+<a href="https://github.com/emmanuelmarcosdeoliveira/portfolio-github"><img   alt="GitHub" src="https://github-readme-stats.vercel.app/api/pin/?username=emmanuelmarcosdeoliveira&show_icons=true&theme=dracula&repo=bikcraft"/></a>
+</div>
+<div>
+<a href="https://github.com/emmanuelmarcosdeoliveira/portfolio-github"><img   alt="GitHub" src="https://github-readme-stats.vercel.app/api/pin/?username=emmanuelmarcosdeoliveira&show_icons=true&theme=dracula&repo=to-do_vue_ebac"/></a>
+</div>
+</td>
+<td>
+<div>
+<a href="https://github.com/emmanuelmarcosdeoliveira/portfolio-github"><img   alt="GitHub" src="https://github-readme-stats.vercel.app/api/pin/?username=emmanuelmarcosdeoliveira&show_icons=true&theme=dracula&repo=animais-fantasticos"/></a>
+</div>
+<div>
+<a href="https://github.com/emmanuelmarcosdeoliveira/portfolio-github"><img   alt="GitHub" src="https://github-readme-stats.vercel.app/api/pin/?username=emmanuelmarcosdeoliveira&show_icons=true&theme=dracula&repo=github-profile"/></a>
+</div>
+</td>
+</tr>
+<table>

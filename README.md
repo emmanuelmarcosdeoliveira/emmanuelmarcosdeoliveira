@@ -5,12 +5,10 @@
 </div>
 
 <div align="center">
-<img src="https://github.com/emmanuelmarcosdeoliveira/servidor-estatico/blob/main/ApGitHub.gif"/><br>
+      <img src="https://github.com/emmanuelmarcosdeoliveira/servidor-estatico/blob/main/ApGitHub.gif"/><br>
 </div>
-<br>
-<br>
-
-<h1 align="center"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">Olá sou Emmanuel Marcos de Oliveira</h1> 
+      
+<!--<h1 align="center"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">Olá sou Emmanuel Marcos de Oliveira</h1>!--> 
    <td>  
 <ul align="left">
 <br>
@@ -73,8 +71,8 @@
 
 <h2 align="left">📊 My Github Stats</h2>
 <div  align="center">
-  <img height=200 width="400" align="center" src="https://github-readme-stats.vercel.app/api?username=emmanuelmarcosdeoliveira" /> &emsp;
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emmanuelmarcosdeoliveira&layout=compact&langs_count=8&card_width=401"/>
+  <img  align="center" src="https://github-readme-stats.vercel.app/api?username=emmanuelmarcosdeoliveira" /> &emsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emmanuelmarcosdeoliveira&layout=compact&langs_count=8&card_width=401"/>
 </div>
 
 <br>
@@ -82,13 +80,8 @@
 <a href="https://www.linkedin.com/in/emmanuel-marcos-oliveira" /> <img src="https://img.shields.io/badge/--path?style=social&logo=Linkedin&logoColor=%230664C1&logoSize=auto&label=Linkedin&labelColor=%23fff&cacheSeconds=--query&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Femmanuel-marcos-oliveira%2F
  "/></a>
 
-   
- 
-
-
-
+<h2 align="left" >Meus Projetos Favoritos</h2>
 <div align="center">
-<h2>Meus Projetos Favoritos</h2>
 <img src="https://techstack-generator.vercel.app/react-icon.svg" width="36px" alt="React icon"/> 
 <div>
    
@@ -111,14 +104,6 @@
            </div>
        </a>
    </td>
-   <td align="center">
-      <a href="https://github.com/emmanuelmarcosdeoliveira/ebac_games_redux">
-         <img alt="GitHub" src="https://github-readme-stats.vercel.app/api/pin/?username=emmanuelmarcosdeoliveira&show_icons=true&theme=radical&repo=ebac_games_redux" />
-            <div>
-               <kbd>EBAC Games</kbd>
-           </div>
-       </a>
-   </td>
  </tr>
  </table>
 </div>
@@ -126,7 +111,7 @@
 <br>
 <br>
 
-<h2 align="center">📲Contatos</h2>
+<!--<h2 align="center">📲Contatos</h2>
 
 <div align="center">
    
@@ -150,4 +135,4 @@
 <br>
 
 </div>
-
+--!>

@@ -1,8 +1,4 @@
-<div align="left">
-<img src="https://komarev.com/ghpvc/?username=emmanuelmarcosdeoliveira&color=yellow" alt="Profile views" />
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/emmanuelmarcosdeoliveira">
-<img alt="GitHub Forks" src="https://img.shields.io/github/forks/emmanuelmarcosdeoliveira/emmanuelmarcosdeoliveira"/>
-</div>
+
 
 <div align="center">
       <img src="https://github.com/emmanuelmarcosdeoliveira/servidor-estatico/blob/main/ApGitHub.gif"/><br>
@@ -15,6 +11,12 @@
 <br>
     
    <h2>Sobre Min</h2>
+   <div align="left">
+<img src="https://komarev.com/ghpvc/?username=emmanuelmarcosdeoliveira&color=yellow" alt="Profile views" />
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/emmanuelmarcosdeoliveira">
+<img alt="GitHub Forks" src="https://img.shields.io/github/forks/emmanuelmarcosdeoliveira/emmanuelmarcosdeoliveira"/>
+</div>
+
    <table>
       <tr>
          <td>
@@ -40,11 +42,10 @@
    </td>
    </table>
    
-<br>
-<br>
    
-   ## Stack Front-End
-   <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gulp/gulp-plain.svg" />
+   ### Languages and Technologies
+   [![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,sass,less,bootstrap,gulp,figma)](https://skillicons.dev)
+   <!--<img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gulp/gulp-plain.svg" />
    <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grunt/grunt-original.svg" />
    <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /> 
    <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" />       
@@ -56,18 +57,16 @@
    <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/less/less-plain-wordmark.svg" />    
    <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />       
    <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-   <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />       
-                 
-   <br>
-   <br>
+   <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />  -->     
+    
+### Frameworks and Libraries             
+   [![My Skills](https://skillicons.dev/icons?i=vue,react,nodejs,styledcomponents,tailwind,redux,postgres,vite,)](https://skillicons.dev)
 
-   ## Stack Back-End
-<img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-<img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
-<img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-original.svg" />
-                  
-<br>
-<br>
+### Tools and Platforms
+   [![My Skills](https://skillicons.dev/icons?i=git,vscode,linux,bash,figma,pnpm,yarn,npm,vim,vercel)](https://skillicons.dev)
+
+   <br>
+   <br>
 
 <h2 align="left">📊 My Github Stats</h2>
 <div  align="center">
@@ -81,9 +80,9 @@
  "/></a>
 
 <h2 align="left" >Meus Projetos Favoritos</h2>
-<div align="center">
+<!--<div align="center">
 <img src="https://techstack-generator.vercel.app/react-icon.svg" width="36px" alt="React icon"/> 
-<div>
+<div>--
    
 <div> 
 <table align="center">
@@ -135,4 +134,17 @@
 <br>
 
 </div>
---!>
+!-->
+
+<a href="https://github.com/emmanuelmarcosdeoliveira/portfolio-github">
+         <img  alt="GitHub" src="https://github-readme-stats.vercel.app/api/pin/?username=emmanuelmarcosdeoliveira&show_icons=true&theme=radical&repo=portfolio-github" />
+            <div>
+               <kbd>Porfolio GitHub</kbd>
+           </div>
+       </a>
+       <a href="https://github.com/emmanuelmarcosdeoliveira/portfolio-github">
+         <img  alt="GitHub" src="https://github-readme-stats.vercel.app/api/pin/?username=emmanuelmarcosdeoliveira&show_icons=true&theme=radical&repo=portfolio-github" />
+            <div>
+               <kbd>Porfolio GitHub</kbd>
+           </div>
+       </a>

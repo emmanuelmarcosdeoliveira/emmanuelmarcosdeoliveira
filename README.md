@@ -43,21 +43,9 @@
    </table>
    
    
-   ### Languages and Technologies
+### Languages and Technologies
    [![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,sass,less,bootstrap,gulp,figma)](https://skillicons.dev)
-   <!--<img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gulp/gulp-plain.svg" />
-   <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grunt/grunt-original.svg" />
-   <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /> 
-   <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" />       
-   <img  width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-original.svg" />
-   <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-   <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
-   <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
-   <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
-   <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/less/less-plain-wordmark.svg" />    
-   <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />       
-   <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-   <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />  -->     
+    
     
 ### Frameworks and Libraries             
    [![My Skills](https://skillicons.dev/icons?i=vue,react,nodejs,styledcomponents,tailwind,redux,postgres,vite,)](https://skillicons.dev)
@@ -65,86 +53,19 @@
 ### Tools and Platforms
    [![My Skills](https://skillicons.dev/icons?i=git,vscode,linux,bash,figma,pnpm,yarn,npm,vim,vercel)](https://skillicons.dev)
 
-   <br>
-   <br>
+  
 
-<h2 align="left">📊 My Github Stats</h2>
-<div  align="center">
-  <img  align="center" src="https://github-readme-stats.vercel.app/api?username=emmanuelmarcosdeoliveira" /> &emsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emmanuelmarcosdeoliveira&layout=compact&langs_count=8&card_width=401"/>
-</div>
+### My Github Stats
+      
 
-<br>
 
-<a href="https://www.linkedin.com/in/emmanuel-marcos-oliveira" /> <img src="https://img.shields.io/badge/--path?style=social&logo=Linkedin&logoColor=%230664C1&logoSize=auto&label=Linkedin&labelColor=%23fff&cacheSeconds=--query&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Femmanuel-marcos-oliveira%2F
- "/></a>
-
-<h2 align="left" >Meus Projetos Favoritos</h2>
-<!--<div align="center">
-<img src="https://techstack-generator.vercel.app/react-icon.svg" width="36px" alt="React icon"/> 
-<div>--
-   
-<div> 
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/emmanuelmarcosdeoliveira/portfolio-github">
-         <img  alt="GitHub" src="https://github-readme-stats.vercel.app/api/pin/?username=emmanuelmarcosdeoliveira&show_icons=true&theme=radical&repo=portfolio-github" />
-            <div>
-               <kbd>Porfolio GitHub</kbd>
-           </div>
-       </a>
-   </td>
-      <td align="center">
-      <a href="https://github.com/emmanuelmarcosdeoliveira/ebac_games_redux">
-         <img alt="GitHub" src="https://github-readme-stats.vercel.app/api/pin/?username=emmanuelmarcosdeoliveira&show_icons=true&theme=radical&repo=ebac_games_redux" />
-            <div>
-               <kbd>EBAC Games</kbd>
-           </div>
-       </a>
-   </td>
- </tr>
- </table>
-</div>
-   
-<br>
-<br>
-
-<!--<h2 align="center">📲Contatos</h2>
-
-<div align="center">
-   
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-marcos-oliveira/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emmanuelmarcosdeoliveira@gmail.com)
-[![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511968336094)
+<a href="https://github-readme-stats.vercel.app/api?username=emmanuelmarcosdeoliveira&show_icons=true&theme=dracula&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"><img height="372" src="https://github-readme-stats.vercel.app/api?username=emmanuelmarcosdeoliveira&show_icons=true&theme=dracula&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuelmarcosdeoliveira&theme=dracula&layout=donut-vertical"/></a>
 
 
 
 
+### Meus Projetos Favoritos
 
-
- <img height="120px" alt="GitHub" src="https://octodex.github.com/images/jetpacktocat.png" />
-
-
-[![Static Badge](https://img.shields.io/badge/--path?style=social&logo=Linkedin&logoColor=%230664C1&logoSize=auto&label=Linkedin&labelColor=%23fff&cacheSeconds=https%3A%2F%2Fwww.linkedin.com%2Fin%2Femmanuel-marcos-oliveira%2F)](https://www.linkedin.com/in/emmanuel-marcos-oliveira/)
-
-
-
-<br>
-<br>
-
-</div>
-!-->
-
-<a href="https://github.com/emmanuelmarcosdeoliveira/portfolio-github">
-         <img  alt="GitHub" src="https://github-readme-stats.vercel.app/api/pin/?username=emmanuelmarcosdeoliveira&show_icons=true&theme=radical&repo=portfolio-github" />
-            <div>
-               <kbd>Porfolio GitHub</kbd>
-           </div>
-       </a>
-       <a href="https://github.com/emmanuelmarcosdeoliveira/portfolio-github">
-         <img  alt="GitHub" src="https://github-readme-stats.vercel.app/api/pin/?username=emmanuelmarcosdeoliveira&show_icons=true&theme=radical&repo=portfolio-github" />
-            <div>
-               <kbd>Porfolio GitHub</kbd>
-           </div>
-       </a>
+<a href="https://github.com/emmanuelmarcosdeoliveira/portfolio-github"><img height="150"  alt="GitHub" src="https://github-readme-stats.vercel.app/api/pin/?username=emmanuelmarcosdeoliveira&show_icons=true&theme=dracula&repo=bikcraft"/></a>
+<a href="https://github.com/emmanuelmarcosdeoliveira/portfolio-github"><img height="150"  alt="GitHub" src="https://github-readme-stats.vercel.app/api/pin/?username=emmanuelmarcosdeoliveira&show_icons=true&theme=dracula&repo=portfolio-github"/></a>

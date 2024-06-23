@@ -61,9 +61,17 @@
 
 
 
-### Meus Projetos Favoritos
+### Projetos
 
-<a href="https://github.com/emmanuelmarcosdeoliveira/portfolio-github"><img height="120"  alt="GitHub" src="https://github-readme-stats.vercel.app/api/pin/?username=emmanuelmarcosdeoliveira&show_icons=true&theme=dracula&repo=bikcraft"/></a>
-<a href="https://github.com/emmanuelmarcosdeoliveira/portfolio-github"><img height="120"  alt="GitHub" src="https://github-readme-stats.vercel.app/api/pin/?username=emmanuelmarcosdeoliveira&show_icons=true&theme=dracula&repo=to-do_vue_ebac"/></a>
-<a href="https://github.com/emmanuelmarcosdeoliveira/portfolio-github"><img height="120"  alt="GitHub" src="https://github-readme-stats.vercel.app/api/pin/?username=emmanuelmarcosdeoliveira&show_icons=true&theme=dracula&repo=animais-fantasticos"/></a>
-<a href="https://github.com/emmanuelmarcosdeoliveira/portfolio-github"><img height="120"  alt="GitHub" src="https://github-readme-stats.vercel.app/api/pin/?username=emmanuelmarcosdeoliveira&show_icons=true&theme=dracula&repo=github-profile"/></a>
+<table aling="center">
+<tr>
+<td>
+<a href="https://github.com/emmanuelmarcosdeoliveira/portfolio-github"><img   alt="GitHub" src="https://github-readme-stats.vercel.app/api/pin/?username=emmanuelmarcosdeoliveira&show_icons=true&theme=dracula&repo=bikcraft"/></a>
+<a href="https://github.com/emmanuelmarcosdeoliveira/portfolio-github"><img   alt="GitHub" src="https://github-readme-stats.vercel.app/api/pin/?username=emmanuelmarcosdeoliveira&show_icons=true&theme=dracula&repo=to-do_vue_ebac"/></a>
+</td>
+<td>
+<a href="https://github.com/emmanuelmarcosdeoliveira/portfolio-github"><img   alt="GitHub" src="https://github-readme-stats.vercel.app/api/pin/?username=emmanuelmarcosdeoliveira&show_icons=true&theme=dracula&repo=animais-fantasticos"/></a>
+<a href="https://github.com/emmanuelmarcosdeoliveira/portfolio-github"><img   alt="GitHub" src="https://github-readme-stats.vercel.app/api/pin/?username=emmanuelmarcosdeoliveira&show_icons=true&theme=dracula&repo=github-profile"/></a>
+</td>
+</tr>
+<table>

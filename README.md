@@ -63,7 +63,7 @@
 
 ### Meus Projetos Favoritos
 
-<a href="https://github.com/emmanuelmarcosdeoliveira/portfolio-github"><img height="100"  alt="GitHub" src="https://github-readme-stats.vercel.app/api/pin/?username=emmanuelmarcosdeoliveira&show_icons=true&theme=dracula&repo=bikcraft"/></a>
-<a href="https://github.com/emmanuelmarcosdeoliveira/portfolio-github"><img height="100"  alt="GitHub" src="https://github-readme-stats.vercel.app/api/pin/?username=emmanuelmarcosdeoliveira&show_icons=true&theme=dracula&repo=to-do_vue_ebac"/></a>
-<a href="https://github.com/emmanuelmarcosdeoliveira/portfolio-github"><img height="100"  alt="GitHub" src="https://github-readme-stats.vercel.app/api/pin/?username=emmanuelmarcosdeoliveira&show_icons=true&theme=dracula&repo=animais-fantasticos"/></a>
-<a href="https://github.com/emmanuelmarcosdeoliveira/portfolio-github"><img height="100"  alt="GitHub" src="https://github-readme-stats.vercel.app/api/pin/?username=emmanuelmarcosdeoliveira&show_icons=true&theme=dracula&repo=github-profile"/></a>
+<a href="https://github.com/emmanuelmarcosdeoliveira/portfolio-github"><img height="120"  alt="GitHub" src="https://github-readme-stats.vercel.app/api/pin/?username=emmanuelmarcosdeoliveira&show_icons=true&theme=dracula&repo=bikcraft"/></a>
+<a href="https://github.com/emmanuelmarcosdeoliveira/portfolio-github"><img height="120"  alt="GitHub" src="https://github-readme-stats.vercel.app/api/pin/?username=emmanuelmarcosdeoliveira&show_icons=true&theme=dracula&repo=to-do_vue_ebac"/></a>
+<a href="https://github.com/emmanuelmarcosdeoliveira/portfolio-github"><img height="120"  alt="GitHub" src="https://github-readme-stats.vercel.app/api/pin/?username=emmanuelmarcosdeoliveira&show_icons=true&theme=dracula&repo=animais-fantasticos"/></a>
+<a href="https://github.com/emmanuelmarcosdeoliveira/portfolio-github"><img height="120"  alt="GitHub" src="https://github-readme-stats.vercel.app/api/pin/?username=emmanuelmarcosdeoliveira&show_icons=true&theme=dracula&repo=github-profile"/></a>

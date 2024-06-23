@@ -35,7 +35,7 @@
 [![Discord](https://img.shields.io/badge/--path?style=social&logo=discord&logoSize=auto&label=Discord&color=%23fff&cacheSeconds=https%3A%2F%2Fdiscord.com%2Finvite%2FjabEup5kEr
 )](https://discord.com/invite/jabEup5kEr)
 
-<a href="https://img.shields.io/badge/--path?style=social&logo=Gmail&logoSize=auto&label=Gmail&cacheSeconds=--query&link=mailto%3Adev-oliveira%40outlook.com.br%22"><img alt="Static Badge" src="https://img.shields.io/badge/--path?style=social&logo=Gmail&logoSize=auto&label=Gmail&cacheSeconds=--query&link=mailto%3Adev-oliveira%40outlook.com.br%22"> </a>
+<a href="link=mailto%3Adev-oliveira%40outlook.com.br%22"><img alt="Static Badge" src="https://img.shields.io/badge/--path?style=social&logo=Gmail&logoSize=auto&label=Gmail&cacheSeconds=--query&link=mailto%3Adev-oliveira%40outlook.com.br%22"> </a>
 
 
 </ul>

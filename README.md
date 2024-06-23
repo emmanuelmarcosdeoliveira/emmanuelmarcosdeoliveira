@@ -66,7 +66,7 @@
 <table aling="center">
 <tr>
 <tr align="center">
-<th>Meu Projetos Favoritos</th>
+<th  colspan="2">Meu Projetos Favoritos</th>
 </tr>
 <td>
 <div>

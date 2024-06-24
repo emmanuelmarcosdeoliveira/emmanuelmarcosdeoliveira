@@ -82,7 +82,7 @@
 <a href="https://github.com/emmanuelmarcosdeoliveira/animais-fantasticos"><img   alt="GitHub" src="https://github-readme-stats.vercel.app/api/pin/?username=emmanuelmarcosdeoliveira&show_icons=true&theme=onedark&repo=animais-fantasticos"/></a>
 </div>
 <div>
-<a href="https://github.com/emmanuelmarcosdeoliveira/to-do_vue_ebac"><img   alt="GitHub" src="https://github-readme-stats.vercel.app/api/pin/?username=emmanuelmarcosdeoliveira&show_icons=true&theme=onedracula&repo=to-do_vue_ebac"/></a>
+<a href="https://github.com/emmanuelmarcosdeoliveira/to-do_vue_ebac"><img   alt="GitHub" src="https://github-readme-stats.vercel.app/api/pin/?username=emmanuelmarcosdeoliveira&show_icons=true&theme=onedark&repo=to-do_vue_ebac"/></a>
 </div>
 </td>
 </tr>

@@ -1,7 +1,7 @@
 
   
 <div align="center">
-<img src="https://github.com/emmanuelmarcosdeoliveira/servidor-estatico/blob/main/ApGitHub.gif" /><br>
+<img src="https://github.com/emmanuelmarcosdeoliveira/servidor-estatico/blob/main/banner/emmanuelOliveira.gif" /><br>
 </div>
 
 ## Sobre Min 
@@ -53,37 +53,57 @@
   
 
 ### My Github Stats
-      
+    
+<table>
+  <tr>
+    <th align='center'>  
+  <img width='400' height='180' src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuelmarcosdeoliveira&theme=react&show_icons=true&hide_border=true&layout=compact" />  
+    </th>
+      </tr>
+   </table>
+<table> 
+<tr>
+    <th  colspan=2>
+      <img height='160' src="https://github-readme-stats.vercel.app/api?username=emmanuelmarcosdeoliveira&theme=react&show_icons=true&hide_border=true&count_private=true" />
+   </th>
+    <th colspan=2>
+      <img height='160'  src="https://github-readme-streak-stats.herokuapp.com/?user=emmanuelmarcosdeoliveira&theme=react&hide_border=true" /> 
+    </th>
+     </tr>
+</table>
 
 
-<a href="https://github-readme-stats.vercel.app/api?username=emmanuelmarcosdeoliveira&show_icons=true&theme=onedark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"><img height="330" src="https://github-readme-stats.vercel.app/api?username=emmanuelmarcosdeoliveira&show_icons=true&theme=onedark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img height="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuelmarcosdeoliveira&theme=onedark&layout=donut-vertical"/></a>
+### Projetos Favoritos
 
-
-
-
-### Projetos
-
-<table aling="center">
+<!--<table aling="center">
 <tr>
 <tr align="center">
 <th  colspan="2">Meus Projetos Favoritos</th>
 </tr>
 <td>
 <div>
-<a href="https://github.com/emmanuelmarcosdeoliveira/bikcraft"><img   alt="GitHub" src="https://github-readme-stats.vercel.app/api/pin/?username=emmanuelmarcosdeoliveira&show_icons=true&theme=onedark&repo=bikcraft"/></a>
+<a href="https://github.com/emmanuelmarcosdeoliveira/bikcraft"><img   alt="GitHub" src="https://github-readme-stats.vercel.app/api/pin/?username=emmanuelmarcosdeoliveira&show_icons=true&theme=react&repo=bikcraft"/></a>
 </div>
 <div>
-<a href="https://github.com/emmanuelmarcosdeoliveira/portfolio-github"><img   alt="GitHub" src="https://github-readme-stats.vercel.app/api/pin/?username=emmanuelmarcosdeoliveira&show_icons=true&theme=onedark&repo=portfolio-github"/></a>
+<a href="https://github.com/emmanuelmarcosdeoliveira/portfolio-github"><img   alt="GitHub" src="https://github-readme-stats.vercel.app/api/pin/?username=emmanuelmarcosdeoliveira&show_icons=true&theme=react&repo=portfolio-github"/></a>
 </div>
 </td>
 <td>
 <div>
-<a href="https://github.com/emmanuelmarcosdeoliveira/animais-fantasticos"><img   alt="GitHub" src="https://github-readme-stats.vercel.app/api/pin/?username=emmanuelmarcosdeoliveira&show_icons=true&theme=onedark&repo=animais-fantasticos"/></a>
+<a href="https://github.com/emmanuelmarcosdeoliveira/animais-fantasticos"><img   alt="GitHub" src="https://github-readme-stats.vercel.app/api/pin/?username=emmanuelmarcosdeoliveira&show_icons=true&theme=react&repo=animais-fantasticos"/></a>
 </div>
 <div>
-<a href="https://github.com/emmanuelmarcosdeoliveira/to-do_vue_ebac"><img   alt="GitHub" src="https://github-readme-stats.vercel.app/api/pin/?username=emmanuelmarcosdeoliveira&show_icons=true&theme=onedark&repo=to-do_vue_ebac"/></a>
+<a href="https://github.com/emmanuelmarcosdeoliveira/to-do_vue_ebac"><img   alt="GitHub" src="https://github-readme-stats.vercel.app/api/pin/?username=emmanuelmarcosdeoliveira&show_icons=true&theme=react&repo=to-do_vue_ebac"/></a>
 </div>
 </td>
 </tr>
 <table>
+-->
+<a href="https://github.com/emmanuelmarcosdeoliveira/bikcraft"><img   alt="GitHub" src="https://github-readme-stats.vercel.app/api/pin/?username=emmanuelmarcosdeoliveira&show_icons=true&theme=react&repo=bikcraft"/></a>
+<a href="https://github.com/emmanuelmarcosdeoliveira/portfolio-github"><img   alt="GitHub" src="https://github-readme-stats.vercel.app/api/pin/?username=emmanuelmarcosdeoliveira&show_icons=true&theme=react&repo=portfolio-github"/></a>
+<a href="https://github.com/emmanuelmarcosdeoliveira/animais-fantasticos"><img   alt="GitHub" src="https://github-readme-stats.vercel.app/api/pin/?username=emmanuelmarcosdeoliveira&show_icons=true&theme=react&repo=animais-fantasticos"/></a>
+<a href="https://github.com/emmanuelmarcosdeoliveira/to-do_vue_ebac"><img   alt="GitHub" src="https://github-readme-stats.vercel.app/api/pin/?username=emmanuelmarcosdeoliveira&show_icons=true&theme=react&repo=to-do_vue_ebac"/></a>
+<a href="https://github.com/emmanuelmarcosdeoliveira/contac-list"><img   alt="GitHub" src="https://github-readme-stats.vercel.app/api/pin/?username=emmanuelmarcosdeoliveira&show_icons=true&theme=react&repo=contac-list"/></a>
+<a href="https://github.com/emmanuelmarcosdeoliveira/ToDo-List"><img   alt="GitHub" src="https://github-readme-stats.vercel.app/api/pin/?username=emmanuelmarcosdeoliveira&show_icons=true&theme=react&repo=ToDo-List"/></a>
+
+

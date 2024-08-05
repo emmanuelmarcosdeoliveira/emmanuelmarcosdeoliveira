@@ -103,7 +103,7 @@
 <a href="https://github.com/emmanuelmarcosdeoliveira/portfolio-github"><img   alt="GitHub" src="https://github-readme-stats.vercel.app/api/pin/?username=emmanuelmarcosdeoliveira&show_icons=true&theme=react&repo=portfolio-github"/></a>
 <a href="https://github.com/emmanuelmarcosdeoliveira/animais-fantasticos"><img   alt="GitHub" src="https://github-readme-stats.vercel.app/api/pin/?username=emmanuelmarcosdeoliveira&show_icons=true&theme=react&repo=animais-fantasticos"/></a>
 <a href="https://github.com/emmanuelmarcosdeoliveira/to-do_vue_ebac"><img   alt="GitHub" src="https://github-readme-stats.vercel.app/api/pin/?username=emmanuelmarcosdeoliveira&show_icons=true&theme=react&repo=to-do_vue_ebac"/></a>
-<a href="https://github.com/emmanuelmarcosdeoliveira/contaclist"><img   alt="GitHub" src="https://github-readme-stats.vercel.app/api/pin/?username=emmanuelmarcosdeoliveira&show_icons=true&theme=react&repo=contact-list"/></a>
-
+<a href="https://github.com/emmanuelmarcosdeoliveira/contac-list"><img   alt="GitHub" src="https://github-readme-stats.vercel.app/api/pin/?username=emmanuelmarcosdeoliveira&show_icons=true&theme=react&repo=contac-list"/></a>
+<a href="https://github.com/emmanuelmarcosdeoliveira/ToDo-List"><img   alt="GitHub" src="https://github-readme-stats.vercel.app/api/pin/?username=emmanuelmarcosdeoliveira&show_icons=true&theme=react&repo=ToDo-List"/></a>
 
 

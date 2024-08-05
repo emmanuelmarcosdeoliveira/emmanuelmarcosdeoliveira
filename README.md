@@ -60,6 +60,9 @@
 <a href="https://github.com/anuraghazra/github-readme-stats"><img height="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuelmarcosdeoliveira&theme=onedark&layout=donut-vertical"/></a>
 -->
 
+<img height="250" src="https://github-readme-stats.vercel.app/api?username=emmanuelmarcosdeoliveira&theme=react&show_icons=true&hide_border=true&count_private=true" />
+
+
 ![emmanuelmarcosdeoliveira's Stats](https://github-readme-stats.vercel.app/api?username=emmanuelmarcosdeoliveira&theme=react&show_icons=true&hide_border=true&count_private=true)
 ![emmanuelmarcosdeoliveira's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuelmarcosdeoliveira&theme=react&show_icons=true&hide_border=true&layout=compact)
 ![emmanuelmarcosdeoliveira's Streak](https://github-readme-streak-stats.herokuapp.com/?user=emmanuelmarcosdeoliveira&theme=react&hide_border=true)

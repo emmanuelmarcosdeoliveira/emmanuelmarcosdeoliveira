@@ -1,7 +1,7 @@
 
   
 <div align="center">
-<img src="https://github.com/emmanuelmarcosdeoliveira/servidor-estatico/blob/main/banner/emmanuelOliveira.gif" /><br>
+<img src="https://github.com/emmanuelmarcosdeoliveira/servidor-estatico/blob/main/github/emmanuelOliveira.gif" /><br>
 </div>
 
 ## Sobre Min 
@@ -34,7 +34,7 @@
 </ul>
 </td>
    <td>
-       <img width="350" src="https://github.com/emmanuelmarcosdeoliveira/servidor-estatico/blob/main/github/Mybox.gif" />  
+       <img width="350" src="https://github.com/emmanuelmarcosdeoliveira/servidor-estatico/blob/main/github/box.gif" />  
    </td>
    </table>
 </ul>

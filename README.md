@@ -34,7 +34,7 @@
 </ul>
 </td>
    <td>
-       <img width="350" src="https://github.com/emmanuelmarcosdeoliveira/servidor-estatico/blob/main/Emmanuel%20Oliveira%20(1).gif" />  
+       <img width="350" src="https://github.com/emmanuelmarcosdeoliveira/servidor-estatico/blob/main/github/Mybox.gif" />  
    </td>
    </table>
 </ul>

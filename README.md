@@ -54,23 +54,12 @@
 
 ### My Github Stats
     
-<table>
-  <tr>
-    <th align='center'>  
-  <img width='400' height='180' src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuelmarcosdeoliveira&theme=react&show_icons=true&hide_border=true&layout=compact" />  
-    </th>
-      </tr>
-   </table>
-<table> 
-<tr>
-    <th  colspan=2>
-      <img height='160' src="https://github-readme-stats.vercel.app/api?username=emmanuelmarcosdeoliveira&theme=react&show_icons=true&hide_border=true&count_private=true" />
-   </th>
-    <th colspan=2>
-      <img height='160'  src="https://github-readme-streak-stats.herokuapp.com/?user=emmanuelmarcosdeoliveira&theme=react&hide_border=true" /> 
-    </th>
-     </tr>
-</table>
+<img width='460' src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuelmarcosdeoliveira&theme=react&show_icons=true&hide_border=true&layout=compact" />  
+
+<div>
+<img height='160' src="https://github-readme-stats.vercel.app/api?username=emmanuelmarcosdeoliveira&theme=react&show_icons=true&hide_border=true&count_private=true" />
+<img height='160'  src="https://github-readme-streak-stats.herokuapp.com/?user=emmanuelmarcosdeoliveira&theme=react&hide_border=true" /> 
+</div>
 
 
 ### Projetos Favoritos

@@ -1,7 +1,7 @@
 
   
 <div align="center">
-<img src="https://github.com/emmanuelmarcosdeoliveira/servidor-estatico/blob/main/ApGitHub.gif" /><br>
+<img src="https://github.com/emmanuelmarcosdeoliveira/servidor-estatico/blob/main/banner/emmanuelOliveira.gif" /><br>
 </div>
 
 ## Sobre Min 

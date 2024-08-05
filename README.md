@@ -53,19 +53,25 @@
   
 
 ### My Github Stats
-      
+    
+<table>
+  <tr>
+    <th align='center'>  
+  <img width='1200' height='350' src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuelmarcosdeoliveira&theme=react&show_icons=true&hide_border=true&layout=compact" />  
+    </th>
+      </tr>
+   </table>
+<table> 
+<tr>
+    <th  colspan="2">
+      <img  src="https://github-readme-stats.vercel.app/api?username=emmanuelmarcosdeoliveira&theme=react&show_icons=true&hide_border=true&count_private=true" />
+   </th>
+    <th   colspan="2">
+      <img  src="https://github-readme-streak-stats.herokuapp.com/?user=emmanuelmarcosdeoliveira&theme=react&hide_border=true" /> 
+    </th>
+     </tr>
+</table>
 
-
-<!-- <a href="https://github-readme-stats.vercel.app/api?username=emmanuelmarcosdeoliveira&show_icons=true&theme=onedark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"><img height="330" src="https://github-readme-stats.vercel.app/api?username=emmanuelmarcosdeoliveira&show_icons=true&theme=onedark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img height="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuelmarcosdeoliveira&theme=onedark&layout=donut-vertical"/></a>
--->
-
-<img height="250" src="https://github-readme-stats.vercel.app/api?username=emmanuelmarcosdeoliveira&theme=react&show_icons=true&hide_border=true&count_private=true" />
-
-
-![emmanuelmarcosdeoliveira's Stats](https://github-readme-stats.vercel.app/api?username=emmanuelmarcosdeoliveira&theme=react&show_icons=true&hide_border=true&count_private=true)
-![emmanuelmarcosdeoliveira's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuelmarcosdeoliveira&theme=react&show_icons=true&hide_border=true&layout=compact)
-![emmanuelmarcosdeoliveira's Streak](https://github-readme-streak-stats.herokuapp.com/?user=emmanuelmarcosdeoliveira&theme=react&hide_border=true)
 
 ### Projetos
 

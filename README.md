@@ -6,22 +6,27 @@
 
 ## Sobre Min 
 
-  <table>
+ 
   <div align="left">
 <img src="https://komarev.com/ghpvc/?username=emmanuelmarcosdeoliveira&color=yellow" alt="Profile views" />
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/emmanuelmarcosdeoliveira">
-<!--<img alt="GitHub Forks" src="https://img.shields.io/github/forks/emmanuelmarcosdeoliveira/emmanuelmarcosdeoliveira"/>-->
-</div>
+  </div>
 
-  <table>
-      <tr>
-         <td>
-          <ul>  
-            <li>👨‍🎓Sou Formado em <strong>Tecnologia de Redes de Computadores</a></strong> pela Faculdade UniSant´Anna</li><br>
-            <li>🔭Atualmente estou em <strong?>transição de carreira</strong> para área de Desenvolvimento de Software.</li><br>
-            <li>💻Obtendo minha Formação pela  <a href="https://ebaconline.com.br/" target="_blank">EBAC</a> através do Curso FullStack Python</li><br>  
-            <li>🔍Meu Objetivo Profissional é:</strong> Almejo uma posição como Desenvolvedor Front-End e posteriormente Full Stack, com o intuito de colaborar com equipes talentosas 
+
+
+<img align="right" width="350" src="https://github.com/emmanuelmarcosdeoliveira/servidor-estatico/blob/main/github/box.gif" />  
+
+
+<div>
+  <ul>  
+    <li>👨‍🎓Sou Formado em <strong>Tecnologia de Redes de Computadores</a></strong> pela Faculdade UniSant´Anna</li><br>
+    <li>🔭Atualmente estou em <strong?>transição de carreira</strong> para área de Desenvolvimento de Software.</li><br>
+   <li>💻Obtendo minha Formação pela  <a href="https://ebaconline.com.br/" target="_blank">EBAC</a> através do Curso FullStack Python</li><br>  
+   <li>🔍Meu Objetivo Profissional é:</strong> Almejo uma posição como Desenvolvedor Front-End e posteriormente Full Stack, com o intuito de colaborar com equipes talentosas 
                  em projetos que se caracterizam por seus desafios e inovação.</li><br>
+</div>                 
+
+<br>
 
 [![Lindekin](https://img.shields.io/badge/--path?style=social&logo=Linkedin&logoColor=%230664C1&logoSize=auto&label=Linkedin&labelColor=%23fff&cacheSeconds=https%3A%2F%2Fwww.linkedin.com%2Fin%2Femmanuel-marcos-oliveira%2F)](https://www.linkedin.com/in/emmanuel-marcos-oliveira/)
 [![WhatsApp](https://img.shields.io/badge/--path?style=social&logo=WhatsApp&logoColor=%231F3833&logoSize=auto&label=WhatsApp&color=%23fff&cacheSeconds=https%3A%2F%2Fwa.me%2F5511968336094
@@ -30,14 +35,6 @@
 )](https://discord.com/invite/jabEup5kEr)
 <a href="mailto:emmanuelmarcosdeoliveira@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/--path?style=social&logo=Gmail&logoSize=auto&label=Gmail&cacheSeconds=--query&link=mailto%3Adev-oliveira%40outlook.com.br%22"> </a>
 
-
-</ul>
-</td>
-   <td>
-       <img width="350" src="https://github.com/emmanuelmarcosdeoliveira/servidor-estatico/blob/main/github/box.gif" />  
-   </td>
-   </table>
-</ul>
 </div>   
    
 ### Linguagens e Tecnologias

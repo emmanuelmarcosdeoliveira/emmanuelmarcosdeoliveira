@@ -18,13 +18,13 @@
 
 
 <div>
-  <ul>  
-    <li>👨‍🎓Sou Formado em <strong>Tecnologia de Redes de Computadores</a></strong> pela Faculdade UniSant´Anna</li><br>
-    <li>🔭Atualmente estou em <strong?>transição de carreira</strong> para área de Desenvolvimento de Software.</li><br>
-   <li>💻Obtendo minha Formação pela  <a href="https://ebaconline.com.br/" target="_blank">EBAC</a> através do Curso FullStack Python</li><br>  
-   <li>🔍Meu Objetivo Profissional é:</strong> Almejo uma posição como Desenvolvedor Front-End e posteriormente Full Stack, com o intuito de colaborar com equipes talentosas 
-                 em projetos que se caracterizam por seus desafios e inovação.</li><br>
-</div>                 
+  <ul>
+<li>	Olá,  que bom te ver por Aqui 🖖, sou um profissional em transição de carreira com Experiencia em Gestão de Negócios para Desenvolvedor Full Stack Python.</li>
+<li>Atualmente, estou iniciando minha formação em Python, o que complementa os sólidos conhecimentos que já adquiri com o Eco Sistema JavaScript.</li>	
+<li>Tenho como objetivo aproveitar o máximo de minha expertise em gestão para colaborar em projetos que não só envolvem soluções técnicas, mas também o entendimento de como essas soluções impactam os objetivos de um negócio.</li>
+
+</ul>
+  </div>                 
 
 <br>
 
@@ -37,17 +37,21 @@
 
 </div>   
    
-### Linguagens e Tecnologias
-   [![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,sass,less,bootstrap,gulp,figma)](https://skillicons.dev)
-    
-    
-### Frameworks e Bibliotecas             
-   [![My Skills](https://skillicons.dev/icons?i=vue,react,nodejs,styledcomponents,tailwind,redux,postgres,vite,)](https://skillicons.dev)
+### Tecnologias:
+   [![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,sass,less,bootstrap,gulp,git,github)](https://skillicons.dev)
+       
+### Frameworks e Bibliotecas:             
+   [![My Skills](https://skillicons.dev/icons?i=vue,react,styledcomponents,tailwind,redux,vite,)](https://skillicons.dev)
 
-### Ferramentas e plataformas
-   [![My Skills](https://skillicons.dev/icons?i=git,vscode,linux,bash,figma,pnpm,yarn,npm,vim,vercel)](https://skillicons.dev)
+### Ferramentas e plataformas:
+   [![My Skills](https://skillicons.dev/icons?i=vscode,linux,bash,pnpm,yarn,npm,vim,vercel,figma)](https://skillicons.dev)
 
-  
+### Testes Unitários e teste E2E:
+[![My Skills](https://skillicons.dev/icons?i=jest,cypress)](https://skillicons.dev)
+
+### Aprofundando meus conhecimentos em:
+   [![My Skills](https://skillicons.dev/icons?i=next,tailwind,postgres,mongodb,mysql,prisma,python)](https://skillicons.dev)
+
 
 ### My Github Stats
     

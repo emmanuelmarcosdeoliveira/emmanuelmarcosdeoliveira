@@ -50,7 +50,7 @@
 [![My Skills](https://skillicons.dev/icons?i=jest,cypress)](https://skillicons.dev)
 
 ### Aprofundando meus conhecimentos em:
-   [![My Skills](https://skillicons.dev/icons?i=next,tailwind,nest,prisma,postgres,mongodb,mysql,python)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=next,tailwind,nodejs,nest,prisma,postgres,mongodb,mysql,python)](https://skillicons.dev)
 
 
 ### My Github Stats

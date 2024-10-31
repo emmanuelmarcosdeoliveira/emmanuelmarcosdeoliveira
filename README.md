@@ -90,7 +90,6 @@
 <table>
 -->
 <a href="https://github.com/emmanuelmarcosdeoliveira/bikcraft"><img   alt="GitHub" src="https://github-readme-stats.vercel.app/api/pin/?username=emmanuelmarcosdeoliveira&show_icons=true&theme=react&repo=bikcraft"/></a>
-<a href="https://github.com/emmanuelmarcosdeoliveira/animais-fantasticos"><img   alt="GitHub" src="https://github-readme-stats.vercel.app/api/pin/?username=emmanuelmarcosdeoliveira&show_icons=true&theme=react&repo=animais-fantasticos"/></a>
 <a href="https://github.com/emmanuelmarcosdeoliveira/contac-list"><img   alt="GitHub" src="https://github-readme-stats.vercel.app/api/pin/?username=emmanuelmarcosdeoliveira&show_icons=true&theme=react&repo=contac-list"/></a>
 <a href="https://github.com/emmanuelmarcosdeoliveira/dogs-ofs"><img   alt="GitHub" src="https://github-readme-stats.vercel.app/api/pin/?username=emmanuelmarcosdeoliveira&show_icons=true&theme=react&repo=dogs-ofs"/></a>
 <a href="https://github.com/emmanuelmarcosdeoliveira/eplay-ofs"><img   alt="GitHub" src="https://github-readme-stats.vercel.app/api/pin/?username=emmanuelmarcosdeoliveira&show_icons=true&theme=react&repo=eplay-ofs"/></a>

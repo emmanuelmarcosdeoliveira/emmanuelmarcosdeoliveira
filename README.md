@@ -55,7 +55,7 @@
 
 ### My Github Stats
     
-<img width='360' src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuelmarcosdeoliveira&langs_count=10&theme=react&show_icons=true&hide_border=true&layout=compact" />  
+<img width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuelmarcosdeoliveira&langs_count=10&theme=react&show_icons=true&hide_border=true&layout=compact" />  
 
 <div>
 <img height='160' src="https://github-readme-stats.vercel.app/api?username=emmanuelmarcosdeoliveira&theme=react&show_icons=true&hide_border=true&count_private=true" />

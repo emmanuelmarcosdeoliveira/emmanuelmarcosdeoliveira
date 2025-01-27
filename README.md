@@ -22,7 +22,7 @@
 <div>
 Olá,  que bom te ver por Aqui 🖖,<br>
 Sou um profissional em transição de carreira com experiência em gestão de negócios, trabalho em equipe e boa comunicação.</br>
-Estou me desenvolvendo dia a dia, em busca de me tornar um programador FullStack</br>	
+Estou me desenvolvendo dia a dia, em busca de me tornar um programador FullStack.</br>	
 <br>
 <br>  
 Estou sempre em busca de novos desafios e oportunidades para aprender e crescer. <br> 

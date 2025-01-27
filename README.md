@@ -20,9 +20,19 @@
 
 
 <div>
-Olá,  que bom te ver por Aqui 🖖, sou um profissional em transição de carreira com Experiência em Gestão de Negócios para Desenvolvedor Full Stack Python.</br>
-Atualmente, estou iniciando minha formação em Python, o que complementa os sólidos conhecimentos que já adquiri com o Eco Sistema JavaScript.</br>	
-Tenho como objetivo aproveitar o máximo de minha expertise em gestão para colaborar em projetos que não só envolvem soluções técnicas, mas também o entendimento de como essas soluções impactam os objetivos de um negócio.</br>
+Olá,  que bom te ver por Aqui 🖖,<br>
+Sou um profissional em transição de carreira com experiência em gestão de negócios, trabalho em equipe e boa comunicação.</br>
+Estou me desenvolvendo dia a dia, em busca de me tornar um programador FullStack</br>	
+<br>
+<br>  
+Estou sempre em busca de novos desafios e oportunidades para aprender e crescer. <br> 
+Seja bem-vindo ao meu perfil no GitHub! Sinta-se à vontade para explorar meus projetos e colaborar.<br>
+<br>
+
+<strong>"O aprendizado nunca para. A cada desafio, uma nova oportunidade de crescer."</strong> 
+<br>
+<br>
+Vamos juntos construir algo incrível! 🚀  
 </div>                 
 
 <br>

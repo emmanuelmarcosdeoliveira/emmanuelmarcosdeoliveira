@@ -1,12 +1,13 @@
 
   
 <div align="center">
-<img src="https://github.com/emmanuelmarcosdeoliveira/servidor-estatico/blob/main/github/emmanuelOliveira.gif" /><br>
+  
+ ![banner-top](https://github.com/user-attachments/assets/04503933-6dcf-4df9-9eb8-06ad45fdcafc)
 </div>
 
 ## Sobre Min 
 
- 
+
   <div align="left">
 <img src="https://komarev.com/ghpvc/?username=emmanuelmarcosdeoliveira&color=yellow" alt="Profile views" />
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/emmanuelmarcosdeoliveira">

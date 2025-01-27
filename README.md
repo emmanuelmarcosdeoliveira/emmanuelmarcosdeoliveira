@@ -14,7 +14,7 @@
 
 
 
-<img align="right" width="350" src="https://github.com/emmanuelmarcosdeoliveira/servidor-estatico/blob/main/github/box.gif" />  
+
 
 
 <div>
@@ -36,27 +36,60 @@
 <a href="mailto:emmanuelmarcosdeoliveira@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/--path?style=social&logo=Gmail&logoSize=auto&label=Gmail&cacheSeconds=--query&link=mailto%3Adev-oliveira%40outlook.com.br%22"> </a>
 
 </div>   
-   
+
+<div>
+
+
+
+
+  
+<table>
+  <tr>
+    <th  colspan="1">Tecnologias</th>
+    <td>
+   <p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,sass,less,bootstrap,gulp&perline=4" />
+  </a>
+</p>
+
+  </td>
+  </tr>
+</table>
+
+
+
+
+
+  
+### Runtime JS
+[![My Skills](https://skillicons.dev/icons?i=nodejs,bun)](https://skillicons.dev)
+</div>
+
+<div align="center">
+  
 ### Tecnologias:
-   [![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,sass,less,bootstrap,gulp,git,github)](https://skillicons.dev)
-       
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,sass,less,bootstrap,gulp,git,github,regex,webpack&perline=3)](https://skillicons.dev)     
+</div>
+
+<div aling="right"> 
+  
 ### Frameworks e Bibliotecas:             
-   [![My Skills](https://skillicons.dev/icons?i=vue,react,styledcomponents,tailwind,redux,vite,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=next,react,vue,astro,styledcomponents,tailwind,redux,vite,&perline=3)](https://skillicons.dev)
+</div>
+
+
 
 ### Ferramentas e plataformas:
-   [![My Skills](https://skillicons.dev/icons?i=vscode,linux,bash,pnpm,yarn,npm,vim,vercel,figma)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=vscode,linux,bash,pnpm,yarn,npm,vim,vercel,figma&perline=4)](https://skillicons.dev)
 ### Testes Unitários e teste E2E:
 [![My Skills](https://skillicons.dev/icons?i=jest,cypress)](https://skillicons.dev)
-
 ### Aprofundando meus conhecimentos em:
-   [![My Skills](https://skillicons.dev/icons?i=next,tailwind,nodejs,nest,prisma,postgres,mongodb,mysql,python)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=next,tailwind,nodejs,nest,prisma,postgres,mongodb,mysql,python&perline=4)](https://skillicons.dev)
+</div>
 
 ### My Github Stats
-    
-<img width='360' src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuelmarcosdeoliveira&theme=react&show_icons=true&hide_border=true&layout=compact" />  
-
+<img width='360' src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuelmarcosdeoliveira&langs_count=10&theme=react&show_icons=true&hide_border=true&layout=compact" />  
 <div>
 <img height='160' src="https://github-readme-stats.vercel.app/api?username=emmanuelmarcosdeoliveira&theme=react&show_icons=true&hide_border=true&count_private=true" />
 <img height='160'  src="https://github-readme-streak-stats.herokuapp.com/?user=emmanuelmarcosdeoliveira&theme=react&hide_border=true" /> 

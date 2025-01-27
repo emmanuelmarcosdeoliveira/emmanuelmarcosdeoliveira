@@ -1,30 +1,39 @@
 
   
 <div align="center">
-<img src="https://github.com/emmanuelmarcosdeoliveira/servidor-estatico/blob/main/github/emmanuelOliveira.gif" /><br>
+  
+![Emmanuel Oliveira](https://github.com/user-attachments/assets/8d21b53c-04b1-46a7-a40c-a3cbe013de50)
+
 </div>
 
 ## Sobre Min 
 
- 
+
   <div align="left">
 <img src="https://komarev.com/ghpvc/?username=emmanuelmarcosdeoliveira&color=yellow" alt="Profile views" />
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/emmanuelmarcosdeoliveira">
   </div>
+<br>
+<br>
 
 
-
-<img align="right" width="350" src="https://github.com/emmanuelmarcosdeoliveira/servidor-estatico/blob/main/github/box.gif" />  
 
 
 <div>
-  <ul>
-<li>	Olá,  que bom te ver por Aqui 🖖, sou um profissional em transição de carreira com Experiência em Gestão de Negócios para Desenvolvedor Full Stack Python.</li>
-<li>Atualmente, estou iniciando minha formação em Python, o que complementa os sólidos conhecimentos que já adquiri com o Eco Sistema JavaScript.</li>	
-<li>Tenho como objetivo aproveitar o máximo de minha expertise em gestão para colaborar em projetos que não só envolvem soluções técnicas, mas também o entendimento de como essas soluções impactam os objetivos de um negócio.</li>
+Olá,  que bom te ver por Aqui 🖖,<br>
+Sou um profissional em transição de carreira com experiência em gestão de negócios, trabalho em equipe e boa comunicação.</br>
+Estou me desenvolvendo dia a dia, em busca de me tornar um programador FullStack</br>	
+<br>
+<br>  
+Estou sempre em busca de novos desafios e oportunidades para aprender e crescer. <br> 
+Seja bem-vindo ao meu perfil no GitHub! Sinta-se à vontade para explorar meus projetos e colaborar.<br>
+<br>
 
-</ul>
-  </div>                 
+<strong>"O aprendizado nunca para. A cada desafio, uma nova oportunidade de crescer."</strong> 
+<br>
+<br>
+Vamos juntos construir algo incrível! 🚀  
+</div>                 
 
 <br>
 
@@ -37,19 +46,19 @@
 
 </div>   
    
-### Tecnologias:
-   [![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,sass,less,bootstrap,gulp,git,github)](https://skillicons.dev)
+#### Tecnologias:
+   [![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,sass,less,gulp)](https://skillicons.dev)
        
-### Frameworks e Bibliotecas:             
-   [![My Skills](https://skillicons.dev/icons?i=vue,react,styledcomponents,tailwind,redux,vite,)](https://skillicons.dev)
+#### Frameworks e Bibliotecas:             
+   [![My Skills](https://skillicons.dev/icons?i=next,react,vue,tailwind,styledcomponents,redux,bootstrap, )](https://skillicons.dev)
 
-### Ferramentas e plataformas:
-   [![My Skills](https://skillicons.dev/icons?i=vscode,linux,bash,pnpm,yarn,npm,vim,vercel,figma)](https://skillicons.dev)
+#### Ferramentas e plataformas:
+   [![My Skills](https://skillicons.dev/icons?i=vscode,vite,linux,bash,pnpm,yarn,npm,vercel,figma,git,github)](https://skillicons.dev)
 
-### Testes Unitários e teste E2E:
+#### Testes Unitários e teste E2E:
 [![My Skills](https://skillicons.dev/icons?i=jest,cypress)](https://skillicons.dev)
 
-### Aprofundando meus conhecimentos em:
+#### Aprofundando meus conhecimentos em:
    [![My Skills](https://skillicons.dev/icons?i=next,tailwind,nodejs,nest,prisma,postgres,mongodb,mysql,python)](https://skillicons.dev)
 
 

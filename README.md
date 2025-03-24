@@ -47,19 +47,19 @@ Vamos juntos construir algo incrível! 🚀
 </div>   
    
 #### Tecnologias:
-   [![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,sass,less,gulp)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,sass,less,gulp,regex)](https://skillicons.dev)
        
 #### Frameworks e Bibliotecas:             
-   [![My Skills](https://skillicons.dev/icons?i=next,react,vue,tailwind,styledcomponents,redux,bootstrap, )](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=next,react,vue,tailwind,styledcomponents,redux,bootstrap,astro,babel,supabase,webpack )](https://skillicons.dev)
 
 #### Ferramentas e plataformas:
-   [![My Skills](https://skillicons.dev/icons?i=vscode,vite,linux,bash,pnpm,yarn,npm,vercel,figma,git,github)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=vscode,vite,linux,bash,pnpm,yarn,npm,vercel,figma,git,github,md,aws)](https://skillicons.dev)
 
 #### Testes Unitários e teste E2E:
 [![My Skills](https://skillicons.dev/icons?i=jest,cypress)](https://skillicons.dev)
 
 #### Aprofundando meus conhecimentos em:
-   [![My Skills](https://skillicons.dev/icons?i=next,tailwind,nodejs,nest,prisma,postgres,mongodb,mysql,python)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=nodejs,nest,prisma,postgres,mongodb,mysql)](https://skillicons.dev)
 
 
 ### My Github Stats

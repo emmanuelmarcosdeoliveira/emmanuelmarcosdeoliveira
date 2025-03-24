@@ -1,5 +1,3 @@
-
-  
 <div align="center">
   
 ![Emmanuel Oliveira](https://github.com/user-attachments/assets/8d21b53c-04b1-46a7-a40c-a3cbe013de50)
@@ -60,6 +58,45 @@ Vamos juntos construir algo incrível! 🚀
 
 #### Aprofundando meus conhecimentos em:
    [![My Skills](https://skillicons.dev/icons?i=nodejs,nest,prisma,postgres,mongodb,mysql)](https://skillicons.dev)
+
+
+
+<table>
+  <tbody>
+     <td>
+  <img width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+</td>
+<td>
+  <img width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+</th>
+ <td>
+  <img width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+</td>
+ <td>
+  <img width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+</td>
+ <td>
+  <img width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+</td>
+<tr>
+<td>
+ <small>HTML</small>
+</td>
+<td>
+  <small>
+ <sub align="center">HTML</sub>
+  </small>
+</td>
+<td>HTML</td>
+<td>HTML</td>
+<td>HTML</td>
+</tr>         
+</tr>
+
+</tbody>
+</table>
+
+
 
 
 ### My Github Stats

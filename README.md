@@ -63,33 +63,61 @@ Vamos juntos construir algo incrível! 🚀
 
 <table>
   <tbody>
-     <td>
+     <td align="center">
   <img width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 </td>
-<td>
+<td  align="center">
   <img width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 </th>
- <td>
+ <td  align="center">
   <img width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 </td>
- <td>
+ <td  align="center">
   <img width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 </td>
- <td>
+ <td  align="center">
   <img width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 </td>
 <tr>
+
 <td>
- <small>HTML</small>
+<sub>
+ <b>
+   <pre>HTML</pre>
+ </b>
+</sub>
 </td>
 <td>
-  <small>
- <sub align="center">HTML</sub>
-  </small>
+  <sub>
+   <b>
+     <pre>HTML</pre>
+   </b>
+</sub>
 </td>
-<td>HTML</td>
-<td>HTML</td>
-<td>HTML</td>
+
+<td>
+ <sub>
+<b>
+ <pre>HTML</pre>
+</b>
+</sub>
+</td>
+
+<td>
+ <sub>
+<b>
+  <pre>HTML</pre>
+</b>
+</sub>
+ </td>
+ <td>
+ <sub>
+<b>
+  <pre>TailwindCSS</pre>
+</b>
+</sub>
+ </td>
+
 </tr>         
 </tr>
 

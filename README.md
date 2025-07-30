@@ -18,21 +18,36 @@
 
 
 
+### 😀 Olá, seja bem-vindo(a) ao meu perfil!
 
 <div>
-Olá,  que bom te ver por Aqui 🖖,<br>
-Sou um profissional em transição de carreira com experiência em gestão de negócios, trabalho em equipe e boa comunicação.</br>
-Estou me desenvolvendo dia a dia, em busca de me tornar um programador FullStack.</br>	
-<br>
-<br>  
-Estou sempre em busca de novos desafios e oportunidades para aprender e crescer. <br> 
-Seja bem-vindo ao meu perfil no GitHub! Sinta-se à vontade para explorar meus projetos e colaborar.<br>
-<br>
+Sou Emmanuel Oliveira, desenvolvedor em transição de carreira, com sólida experiência como Gestor de Negócios e paixão por tecnologia e desenvolvimento de software. Atualmente conclui a formação  FullStack com React e Node.js na Rocketseat, possuo  habilidades consolidadas em:
+</div>
 
-<strong>"O aprendizado nunca para. A cada desafio, uma nova oportunidade de crescer."</strong> 
-<br>
-<br>
-Vamos juntos construir algo incrível! 🚀  
+</br>
+
+
+💻 Tecnologias:
+
+Front-End: React, Next.js, TypeScript, JavaScript, Styled Components, UI Design
+
+Back-End: Node.js, Express, Prisma, PostgreSQL, SQLite, APIs RESTful
+
+Testes e Qualidade: Jest, Supertest
+
+Arquitetura: MVC, Repository Pattern, Middlewares, SSR
+
+🚀 Projetos Recentes:
+
+Log Express API: API RESTful para gerenciamento de encomendas com autenticação JWT, testes automatizados e arquitetura escalável.
+
+Restaurant API: Sistema de pedidos e gerenciamento de mesas para restaurantes com SQLite e Knex.js.
+
+Aplicações Web: Sites institucionais, e-commerce de games e rede social temática, aplicando boas práticas de UI/UX.
+
+🔎 Sou movido por aprendizado contínuo, resolução de problemas e construção de soluções que impactam pessoas e negócios. Busco minha primeira oportunidade como Desenvolvedor Front-End / Full Stack, contribuindo em projetos desafiadores e colaborativos.
+
+📢 "O aprendizado nunca para. A cada desafio, uma nova oportunidade de evoluir."
 </div>                 
 
 <br>

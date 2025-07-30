@@ -61,20 +61,23 @@ Aplicações Web: Sites institucionais, e-commerce de games e rede social temát
 
 </div>   
    
-#### Tecnologias:
-   [![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,sass,less,gulp,regex)](https://skillicons.dev)
-       
+#### Front-end:
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,sass,less,tailwind,styledcomponents,redux,regex)](https://skillicons.dev)      
+
+#### Back-end
+[![My Skills](https://skillicons.dev/icons?i=nodejs,typescript,express,sqlite,supabase,docker,firebase)](https://skillicons.dev)
+
 #### Frameworks e Bibliotecas:             
-   [![My Skills](https://skillicons.dev/icons?i=next,react,vue,tailwind,styledcomponents,redux,bootstrap,astro,babel,supabase,webpack )](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=next,react,vue,astro)](https://skillicons.dev)
 
 #### Ferramentas e plataformas:
-   [![My Skills](https://skillicons.dev/icons?i=vscode,vite,linux,bash,pnpm,yarn,npm,vercel,figma,git,github,md,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,vite,linux,bash,pnpm,yarn,npm,vercel,figma,git,github,postman,md,webpack)](https://skillicons.dev)
 
 #### Testes Unitários e teste E2E:
 [![My Skills](https://skillicons.dev/icons?i=jest,cypress)](https://skillicons.dev)
 
 #### Aprofundando meus conhecimentos em:
-   [![My Skills](https://skillicons.dev/icons?i=nodejs,nest,prisma,postgres,mongodb,mysql,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,docker,next)](https://skillicons.dev)
 
 
 ### My Github Stats

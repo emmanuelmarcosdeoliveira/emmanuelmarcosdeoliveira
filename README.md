@@ -39,6 +39,8 @@ Arquitetura: MVC, Repository Pattern, Middlewares, SSR
 
 🚀 Projetos Recentes:
 
+<sub>Back-emd</sub>
+
 Log Express API: API RESTful para gerenciamento de encomendas com autenticação JWT, testes automatizados e arquitetura escalável.
 
 Restaurant API: Sistema de pedidos e gerenciamento de mesas para restaurantes com SQLite e Knex.js.
@@ -48,7 +50,10 @@ Aplicações Web: Sites institucionais, e-commerce de games e rede social temát
 🔎 Sou movido por aprendizado contínuo, resolução de problemas e construção de soluções que impactam pessoas e negócios. Busco minha primeira oportunidade como Desenvolvedor Front-End / Full Stack, contribuindo em projetos desafiadores e colaborativos.
 
 📢 "O aprendizado nunca para. A cada desafio, uma nova oportunidade de evoluir."
-</div>                 
+
+
+<sub>Front-emd</sub>
+
 
 <br>
 

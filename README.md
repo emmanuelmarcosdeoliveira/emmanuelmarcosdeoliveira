@@ -74,7 +74,7 @@ Aplicações Web: Sites institucionais, e-commerce de games e rede social temát
 [![My Skills](https://skillicons.dev/icons?i=vscode,vite,linux,bash,pnpm,yarn,npm,vercel,figma,git,github,postman,md,webpack)](https://skillicons.dev)
 
 #### Testes Unitários e teste E2E:
-[![My Skills](https://skillicons.dev/icons?i=jest,cypress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=jest,cypress,vitest)](https://skillicons.dev)
 
 #### Aprofundando meus conhecimentos em:
 [![My Skills](https://skillicons.dev/icons?i=mongodb,docker,next)](https://skillicons.dev)

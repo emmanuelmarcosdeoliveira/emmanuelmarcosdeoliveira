@@ -18,7 +18,9 @@
 
 
 
-### 😀 Olá, seja bem-vindo(a) ao meu perfil!
+## 😀 Olá, seja bem-vindo(a) ao meu perfil!
+
+### Apresentação
 
 <div>
 Sou Emmanuel Oliveira, desenvolvedor em transição de carreira, com sólida experiência como Gestor de Negócios e paixão por tecnologia e desenvolvimento de software. Atualmente conclui a formação  FullStack com React e Node.js na Rocketseat, possuo  habilidades consolidadas em:
@@ -37,25 +39,31 @@ Testes e Qualidade: Jest, Supertest
 
 Arquitetura: MVC, Repository Pattern, Middlewares, SSR
 
+---
+
 🚀 Projetos Recentes:
 
 <sub>Back-emd</sub>
 
 Log Express API: API RESTful para gerenciamento de encomendas com autenticação JWT, testes automatizados e arquitetura escalável.
-
 Restaurant API: Sistema de pedidos e gerenciamento de mesas para restaurantes com SQLite e Knex.js.
-
 Aplicações Web: Sites institucionais, e-commerce de games e rede social temática, aplicando boas práticas de UI/UX.
+
+<sub>Front-emd</sub>
+
+
+---
 
 🔎 Sou movido por aprendizado contínuo, resolução de problemas e construção de soluções que impactam pessoas e negócios. Busco minha primeira oportunidade como Desenvolvedor Front-End / Full Stack, contribuindo em projetos desafiadores e colaborativos.
 
 📢 "O aprendizado nunca para. A cada desafio, uma nova oportunidade de evoluir."
 
 
-<sub>Front-emd</sub>
 
 
-<br>
+## 👩‍💻 Contato
+
+
 
 [![Lindekin](https://img.shields.io/badge/--path?style=social&logo=Linkedin&logoColor=%230664C1&logoSize=auto&label=Linkedin&labelColor=%23fff&cacheSeconds=https%3A%2F%2Fwww.linkedin.com%2Fin%2Femmanuel-marcos-oliveira%2F)](https://www.linkedin.com/in/emmanuel-marcos-oliveira/)
 [![WhatsApp](https://img.shields.io/badge/--path?style=social&logo=WhatsApp&logoColor=%231F3833&logoSize=auto&label=WhatsApp&color=%23fff&cacheSeconds=https%3A%2F%2Fwa.me%2F5511968336094
@@ -65,8 +73,12 @@ Aplicações Web: Sites institucionais, e-commerce de games e rede social temát
 <a href="mailto:emmanuelmarcosdeoliveira@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/--path?style=social&logo=Gmail&logoSize=auto&label=Gmail&cacheSeconds=--query&link=mailto%3Adev-oliveira%40outlook.com.br%22"> </a>
 
 </div>   
-   
-#### Front-end:
+
+<br>
+
+---
+
+### Front-end
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,sass,less,tailwind,styledcomponents,redux,regex)](https://skillicons.dev)      
 
 #### Back-end

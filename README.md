@@ -16,20 +16,17 @@
 <br>
 <br>
 
+## Apresentação: 😀 Olá, seja bem-vindo(a) ao meu perfil!
 
-
-## 😀 Olá, seja bem-vindo(a) ao meu perfil!
-
-### Apresentação
 
 <div>
-Sou Emmanuel Oliveira, desenvolvedor em transição de carreira, com sólida experiência como Gestor de Negócios e paixão por tecnologia e desenvolvimento de software. Atualmente conclui a formação  FullStack com React e Node.js na Rocketseat, possuo  habilidades consolidadas em:
+Sou Emmanuel Oliveira, desenvolvedor em transição de carreira, com sólida experiência como Gestor de Negócios e paixão por tecnologia e desenvolvimento de software. Possuo habilidades consolidadas em:
 </div>
 
 </br>
 
 
-💻 Tecnologias:
+### 💻 Tecnologias:
 
 Front-End: React, Next.js, TypeScript, JavaScript, Styled Components, UI Design
 
@@ -41,7 +38,7 @@ Arquitetura: MVC, Repository Pattern, Middlewares, SSR
 
 ---
 
-🚀 Projetos Recentes:
+### 🚀 Projetos Recentes:
 
 <sub>Back-emd</sub>
 
@@ -54,10 +51,11 @@ Aplicações Web: Sites institucionais, e-commerce de games e rede social temát
 
 ---
 
+### Motivação
+
 🔎 Sou movido por aprendizado contínuo, resolução de problemas e construção de soluções que impactam pessoas e negócios. Busco minha primeira oportunidade como Desenvolvedor Front-End / Full Stack, contribuindo em projetos desafiadores e colaborativos.
 
 📢 "O aprendizado nunca para. A cada desafio, uma nova oportunidade de evoluir."
-
 
 
 
@@ -75,8 +73,8 @@ Aplicações Web: Sites institucionais, e-commerce de games e rede social temát
 </div>   
 
 <br>
+<br>
 
----
 
 ### Front-end
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,sass,less,tailwind,styledcomponents,redux,regex)](https://skillicons.dev)      

@@ -76,8 +76,7 @@ Aplicações Web: Sites institucionais, e-commerce de games e rede social temát
 #### Testes Unitários e teste E2E:
 [![My Skills](https://skillicons.dev/icons?i=jest,cypress,vitest)](https://skillicons.dev)
 
-#### Aprofundando meus conhecimentos em:
-[![My Skills](https://skillicons.dev/icons?i=mongodb,docker,next)](https://skillicons.dev)
+
 
 
 ### My Github Stats

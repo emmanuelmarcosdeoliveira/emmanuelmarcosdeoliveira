@@ -21,7 +21,7 @@
 ### 😀 Olá, seja bem-vindo(a) ao meu perfil!
 
 <div>
-Sou Emmanuel Oliveira, desenvolvedor em transição de carreira, com sólida experiência como Gestor de Negócios e paixão por tecnologia e desenvolvimento de software. Atualmente conclui a formação  FullStack com React e Node.js na Rocketseat, possuo  habilidades consolidadas em:
+Sou Emmanuel Oliveira, desenvolvedor em transição de carreira, com sólida experiência como Gestor de Negócios e paixão por tecnologia e desenvolvimento de software. Possuo habilidades consolidadas em:
 </div>
 
 </br>
@@ -33,13 +33,13 @@ Front-End: React, Next.js, TypeScript, JavaScript, Styled Components, UI Design
 
 Back-End: Node.js, Express, Prisma, PostgreSQL, SQLite, APIs RESTful
 
-Testes e Qualidade: Jest, Supertest
+Testes e Qualidade: Jest, Vitest Supertest e Cypress
 
 Arquitetura: MVC, Repository Pattern, Middlewares, SSR
 
 🚀 Projetos Recentes:
 
-Log Express API: API RESTful para gerenciamento de encomendas com autenticação JWT, testes automatizados e arquitetura escalável.
+- [Log Express API:](https://www.google.com) API RESTful para gerenciamento de encomendas com autenticação JWT, testes automatizados e arquitetura escalável.
 
 Restaurant API: Sistema de pedidos e gerenciamento de mesas para restaurantes com SQLite e Knex.js.
 

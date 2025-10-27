@@ -89,9 +89,9 @@ Aplicações Web: Sites institucionais, e-commerce de games e rede social temát
 </div>
 
 
-### Projetos Favoritos
+<!-- ### Projetos Favoritos
 
-<!--<table aling="center">
+<table aling="center">
 <tr>
 <tr align="center">
 <th  colspan="2">Meus Projetos Favoritos</th>
@@ -114,9 +114,10 @@ Aplicações Web: Sites institucionais, e-commerce de games e rede social temát
 </td>
 </tr>
 <table>
--->
-<a href="https://github.com/emmanuelmarcosdeoliveira/dogs-ofs"><img   alt="GitHub" src="https://github-readme-stats.vercel.app/api/pin/?username=emmanuelmarcosdeoliveira&show_icons=true&theme=react&repo=dogs-ofs"/></a>
+
+ <a href="https://github.com/emmanuelmarcosdeoliveira/dogs-ofs"><img   alt="GitHub" src="https://github-readme-stats.vercel.app/api/pin/?username=emmanuelmarcosdeoliveira&show_icons=true&theme=react&repo=dogs-ofs"/></a>
 <a href="https://github.com/emmanuelmarcosdeoliveira/agents-web"><img   alt="GitHub" src="https://github-readme-stats.vercel.app/api/pin/?username=emmanuelmarcosdeoliveira&show_icons=true&theme=react&repo=agents-web"/></a>
 <a href="https://github.com/emmanuelmarcosdeoliveira/bikcraft-ofs"><img   alt="GitHub" src="https://github-readme-stats.vercel.app/api/pin/?username=emmanuelmarcosdeoliveira&show_icons=true&theme=react&repo=bikcraft-ofs"/></a>
 <a href="https://github.com/emmanuelmarcosdeoliveira/contact-list-ofs"><img   alt="GitHub" src="https://github-readme-stats.vercel.app/api/pin/?username=emmanuelmarcosdeoliveira&show_icons=true&theme=react&repo=contact-list-ofs"/></a>
+-->
 
